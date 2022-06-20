@@ -23,7 +23,6 @@ Across the machine learning stack, my view is that increasingly the centre is th
 <br>
 
 **Jude Haris** <br>  <img src="/assets/img/people/square_jude.jpg" width="100px" style="float: left; margin-right: 20px;">
-Flavour text
 My research area is FPGA based-DNN accelerators, however broadly I am interested in anything Computer Architecture!
 🖱️ [gla.ac.uk/pgrs/judeharis/](gla.ac.uk/pgrs/judeharis/) _(he/him)_
 <br><br>

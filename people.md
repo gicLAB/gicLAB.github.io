@@ -22,7 +22,7 @@ Across the machine learning stack, my view is that increasingly the centre is th
 <br><br>
 <br>
 
-**Jude Haris** <br>  <img src="/assets/img/people/square_jude.jpg" width="100px" style="float: left; margin-right: 20px;">
+**[Jude Haris](gla.ac.uk/pgrs/judeharis/)** <br>  <img src="/assets/img/people/square_jude.jpg" width="100px" style="float: left; margin-right: 20px;">
 My research area is FPGA based-DNN accelerators, however broadly I am interested in anything Computer Architecture!
 🖱️ [gla.ac.uk/pgrs/judeharis/](gla.ac.uk/pgrs/judeharis/) _(he/him)_
 <br><br>
@@ -32,7 +32,8 @@ My research area is FPGA based-DNN accelerators, however broadly I am interested
 <br><br>
 <br>
 
-**Wenhao Hu** <br>  <img src="/assets/img/people/Portrait_placeholder.png" width="100px" style="float: left; margin-right: 20px;">
+**Wenhao Hu** <br>  <img src="/assets/img/people/wenhao.png" width="100px" style="float: left; margin-right: 20px;">
+My research interest is DNN model compression approaches such as pruning, and efficiency focused NAS. I am also interested in model optimization compiler topics.
 <br><br>
 <br>
 

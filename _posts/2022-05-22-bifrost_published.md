@@ -5,4 +5,4 @@ subtitle: Congratulations to first author Axel Stjerngren
 tags: [stonne, simulators, tvm, computer-vision, dnn]
 ---
 
-See paper details in our [publication list](publications.md).
+See paper details in our [publication list]({{ site.baseurl }}/publications).

@@ -6,7 +6,7 @@ subtitle:
 
 # 2022
 
-- A. Stjerngren, P. Gibson, J. Cano., *‘Bifrost: End-to-End Evaluation and Optimization of Reconfigurable DNN Accelerators’* in IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Singapore, May 2022. [     arXiv:2204.12418](https://arxiv.org/abs/2204.12418), [Code](https://github.com/gicLAB/bifrost).
+- A. Stjerngren, P. Gibson, J. Cano, *‘Bifrost: End-to-End Evaluation and Optimization of Reconfigurable DNN Accelerators’* in IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Singapore, May 2022. [     arXiv:2204.12418](https://arxiv.org/abs/2204.12418), [Code](https://github.com/gicLAB/bifrost).
 
 
 # 2021

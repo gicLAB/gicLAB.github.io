@@ -11,7 +11,6 @@ subtitle:
 His research interests are in the broad areas of: Computer Architecture, Computer Systems, Compilers, Interconnection Networks, Machine Learning and Security.
 <img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@jcanore](https://twitter.com/jcanore)
 <br><br>
-<br>
 
 ### Post-doctoral Researchers
 **[Ferheen Ayaz](https://www.linkedin.com/in/ferheen-ayaz-5631a71a7/)** <br>  <img src="/assets/img/people/Ferheen_Ayaz.jpg" width="100px" style="float: left; margin-right: 20px;">

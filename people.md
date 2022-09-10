@@ -27,13 +27,11 @@ Across the machine learning stack, my view is that increasingly the centre is th
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@PerryGibson_](https://twitter.com/PerryGibson_)
 🖱️ [gibsonc.org](https://gibsonic.org/) _!(she/her)_
 <br><br>
-<br>
 
 **[Jude Haris](gla.ac.uk/pgrs/judeharis/)** <br>  <img src="/assets/img/people/square_jude.jpg" width="100px" style="float: left; margin-right: 20px;">
 My research area is FPGA based-DNN accelerators, however broadly I am interested in anything Computer Architecture!
 🖱️ [gla.ac.uk/pgrs/judeharis/](gla.ac.uk/pgrs/judeharis/) _(he/him)_
 <br><br>
-<br>
 
 **Isak Bosman** <br>  <img src="/assets/img/people/Portrait_placeholder.png" width="100px" style="float: left; margin-right: 20px;">
 <br><br>

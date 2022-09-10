@@ -56,3 +56,5 @@ My research interest is DNN model compression approaches such as pruning, and ef
 <!-- ### Research Interns -->
 <!-- - Some Guy -->
 <!-- - Someone else (now @ company) -->
+
+<!-- ## Visiting Researchers-->

@@ -9,7 +9,6 @@ subtitle:
 ### Principal Investigator
 **[Dr José Cano Reyes](http://www.dcs.gla.ac.uk/~josecr/) — _Senior Lecturer (Associate Professor)_** <br> <img src="/assets/img/people/jose_small_new.png" width="100px" style="float: left; margin-right: 20px;">
 His research interests are in the broad areas of: Computer Architecture, Computer Systems, Compilers, Interconnection Networks, Machine Learning and Security.
-
 <img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@jcanore](https://twitter.com/jcanore)
 <br><br>
 <br>
@@ -18,7 +17,6 @@ His research interests are in the broad areas of: Computer Architecture, Compute
 **[Ferheen Ayaz](https://www.linkedin.com/in/ferheen-ayaz-5631a71a7/)** <br>  <img src="/assets/img/people/Ferheen_Ayaz.jpg" width="100px" style="float: left; margin-right: 20px;">
 Works on optimisation and adversarial robustness of AI models, aiming for a co-optimisation strategy balancing security, compression and performance of intelligent edge IoT devices.
 <!-- Her research interests include cybersecurity and Tiny Machine Learning. -->
-
 <img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@ferheenayaz](https://twitter.com/@ferheenayaz)
 <br><br>
 <br>
@@ -27,7 +25,6 @@ Works on optimisation and adversarial robustness of AI models, aiming for a co-o
 
 **[Perry Gibson](https://gibsonic.org)** <br>  <img src="/assets/img/people/pg_profile.jpg" width="100px" style="float: left; margin-right: 20px;">
  Topic: "Modular development of across-stack deep learning inference accelerators on heterogeneous devices" 
-
 <img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@PerryGibson_](https://twitter.com/PerryGibson_)
 <br><br>
 

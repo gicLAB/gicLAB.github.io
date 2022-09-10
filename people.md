@@ -54,8 +54,7 @@ My research interest is DNN model compression approaches such as pruning, and ef
 - [Danilo Pietro Pau](https://www.linkedin.com/in/danilopietropau/) - ST Microelectronics
 
 <!-- ## Visiting Researchers-->
-<br><br>
-<br>
+<br><br>s researc
 
 ## Past Lab Members 
 

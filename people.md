@@ -32,21 +32,24 @@ Across the machine learning stack, my view is that increasingly the centre is th
 <br><br>
 
 **[Jude Haris](gla.ac.uk/pgrs/judeharis/)** <br>  <img src="/assets/img/people/square_jude.jpg" width="100px" style="float: left; margin-right: 20px;">
-My research area is FPGA based-DNN accelerators, however broadly I am interested in anything Computer Architecture!
+Works on FPGA based-DNN accelerators, and hardware driver compilation.
+Topic: "Designing and Generating Efficient FPGA-Based Accelerators for Deep Neural Networks" 
 <br><br>
 <br>
 
 **Isak Bosman** <br>  <img src="/assets/img/people/Portrait_placeholder.png" width="100px" style="float: left; margin-right: 20px;">
+Topic: "Optimizing Natural Language Processing on Edge Devices" 
 <br><br>
 <br><br>
 
-**Nick Louloudakis** <br>  <img src="/assets/img/people/Portrait_placeholder.png" width="100px" style="float: left; margin-right: 20px;">
-University of Edinburgh, co-supervised with Ajitha Rajan, Present Topic: "Testing Perception AI on Hardware Accelerators" 
+**Nick Louloudakis** (co-supervised with Ajitha Rajan) <br>  <img src="/assets/img/people/Portrait_placeholder.png" width="100px" style="float: left; margin-right: 20px;">
+Present Topic: "Testing Perception AI on Hardware Accelerators" 
 <br><br>
 <br>
 
 **Wenhao Hu** <br>  <img src="/assets/img/people/wenhao.png" width="100px" style="float: left; margin-right: 20px;">
-My research interest is DNN model compression approaches such as pruning, and efficiency focused NAS. I am also interested in model optimization compiler topics.
+Works on DNN model compression approaches such as pruning, and efficiency focused NAS.
+Topic: "Exploring Novel Pruning Techniques for Deep Neural Networks" 
 <br><br>
 <br>
 

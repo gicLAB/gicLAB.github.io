@@ -6,9 +6,15 @@ subtitle:
 
 ## Industry Collaboration
 Our group collaborates with researchers from a variety of companies and agencies, including:
- - Large companies: ST Microelectronics  
+ - ST Microelectronics
  
 If you're interested in collaborating on research there are opportunities for industrial PhDs, visiting researchers, and others.  Please [contact us](../contact) to discuss details. 
+
+## Current Projects
+
+### Multimodal AI-based Security at the Edge (MAISE)
+
+The [MAISE project](https://petras-iot.org/project/multimodal-ai-based-security-at-the-edge-maise/) investigates the resilience of Artificial Intelligence (AI) and Machine Learning (ML) models on IoT-scale devices. 
 
 ## Past Projects
 

@@ -25,7 +25,7 @@ Works on optimisation and adversarial robustness of AI models, aiming for a co-o
 
 ### PhD Students
 
-**[Perry Gibson](https://gibsonic.org) (Oct 2019 — Present)** <br>  <img src="/assets/img/people/pg_profile.jpg" width="100px" style="float: left; margin-right: 20px;">
+**[Perry Gibson](https://gibsonic.org)** <br>  <img src="/assets/img/people/pg_profile.jpg" width="100px" style="float: left; margin-right: 20px;">
  Topic: "Modular development of across-stack deep learning inference accelerators on heterogeneous devices" 
 
 <img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@PerryGibson_](https://twitter.com/PerryGibson_)
@@ -44,12 +44,12 @@ Topic: "Optimizing Natural Language Processing on Edge Devices"
 **Nick Louloudakis** (co-supervised with Ajitha Rajan) <br>  <img src="/assets/img/people/Portrait_placeholder.png" width="100px" style="float: left; margin-right: 20px;">
 Topic: "Testing Perception AI on Hardware Accelerators" 
 <br><br>
-<br>
+<br><br>
 
 **Wenhao Hu** <br>  <img src="/assets/img/people/wenhao.png" width="100px" style="float: left; margin-right: 20px;">
 Topic: "Exploring Novel Pruning Techniques for Deep Neural Networks" 
 <br><br>
-<br>
+<br><br>
 
 
 <!-- ### MSc Students -->

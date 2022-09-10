@@ -59,7 +59,7 @@ Topic: "Exploring Novel Pruning Techniques for Deep Neural Networks"
 - [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/) - University of Edinburgh
 
 <!-- ## Visiting Researchers-->
-<br>
+<!-- <br> -->
 
 ## Past Lab Members 
 

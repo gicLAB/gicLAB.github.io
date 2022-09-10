@@ -10,4 +10,4 @@ The Glasgow Intelligent Computing Lab (gicLAB) is undertaking the AIMDDE (AI-bas
 
 *This project has received funding from the European Union’s Horizon 2020 research and innovation programme within the framework of the BonsAPPs Project funded under grant agreement No 101015848*
 
-[eu_logo](/assets/img/eu_bonsapps.png)
+![eu_logo](/assets/img/eu_bonsapps.png)

@@ -41,6 +41,7 @@ My research area is FPGA based-DNN accelerators, however broadly I am interested
 University of Edinburgh, co-supervised with Ajitha Rajan, Present Topic: "Testing Perception AI on Hardware Accelerators" 
 <br><br>
 <br>
+<br>
 
 **Wenhao Hu** <br>  <img src="/assets/img/people/wenhao.png" width="100px" style="float: left; margin-right: 20px;">
 My research interest is DNN model compression approaches such as pruning, and efficiency focused NAS. I am also interested in model optimization compiler topics.

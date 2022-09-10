@@ -22,7 +22,7 @@ Works on optimisation and adversarial robustness of AI models, aiming for a co-o
 
 ### PhD Students
 
-**[Perry Gibson](https://gibsonic.org) (Oct 2019 -- Present)** <br>  <img src="/assets/img/people/pg_profile.jpg" width="100px" style="float: left; margin-right: 20px;">
+**[Perry Gibson](https://gibsonic.org) (Oct 2019 — Present)** <br>  <img src="/assets/img/people/pg_profile.jpg" width="100px" style="float: left; margin-right: 20px;">
 Across the machine learning stack, my view is that increasingly the centre is the tensor compiler: bridging the knowledge gap between models and hardware.
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@PerryGibson_](https://twitter.com/PerryGibson_)
 🖱️ [gibsonc.org](https://gibsonic.org/) _!(she/her)_

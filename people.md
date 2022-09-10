@@ -27,6 +27,7 @@ Works on optimisation and adversarial robustness of AI models, aiming for a co-o
  Topic: "Modular development of across-stack deep learning inference accelerators on heterogeneous devices" 
 <img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@PerryGibson_](https://twitter.com/PerryGibson_)
 <br><br>
+<br>
 
 **[Jude Haris](gla.ac.uk/pgrs/judeharis/)** <br>  <img src="/assets/img/people/square_jude.jpg" width="100px" style="float: left; margin-right: 20px;">
 Topic: "Designing and Generating Efficient FPGA-Based Accelerators for Deep Neural Networks" 

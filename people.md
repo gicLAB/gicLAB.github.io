@@ -38,7 +38,7 @@ Topic: "Optimizing Natural Language Processing on Edge Devices"
 <br><br>
 <br><br>
 
-**Nick Louloudakis** (co-supervised with Ajitha Rajan) <br>  <img src="/assets/img/people/Portrait_placeholder.png" width="100px" style="float: left; margin-right: 20px;">
+**Nick Louloudakis** (co-supervised with [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/) at Univeristy of Edinburgh) <br>  <img src="/assets/img/people/Portrait_placeholder.png" width="100px" style="float: left; margin-right: 20px;">
 Topic: "Testing Perception AI on Hardware Accelerators" 
 <br><br>
 <br><br>
@@ -55,6 +55,7 @@ Topic: "Exploring Novel Pruning Techniques for Deep Neural Networks"
 
 - [David Kaeli](https://coe.northeastern.edu/people/kaeli-david/) - Northeastern University
 - [Danilo Pietro Pau](https://www.linkedin.com/in/danilopietropau/) - ST Microelectronics
+- [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/) - University of Edinburgh
 
 <!-- ## Visiting Researchers-->
 <br>

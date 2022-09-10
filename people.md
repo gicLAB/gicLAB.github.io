@@ -48,7 +48,6 @@ Topic: "Testing Perception AI on Hardware Accelerators"
 Topic: "Exploring Novel Pruning Techniques for Deep Neural Networks" 
 <br><br>
 <br><br>
-<br>
 
 
 <!-- ### MSc Students -->

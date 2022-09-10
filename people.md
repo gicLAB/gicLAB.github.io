@@ -59,7 +59,6 @@ My research interest is DNN model compression approaches such as pruning, and ef
 ## Past Lab Members 
 
 - Martina Löfqvist
-- 
 <!-- ### Research Interns -->
 <!-- - Some Guy -->
 <!-- - Someone else (now @ company) -->

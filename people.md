@@ -18,7 +18,6 @@ Works on optimisation and adversarial robustness of AI models, aiming for a co-o
 <!-- Her research interests include cybersecurity and Tiny Machine Learning. -->
 <img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@ferheenayaz](https://twitter.com/@ferheenayaz)
 <br><br>
-<br>
 
 ### PhD Students
 

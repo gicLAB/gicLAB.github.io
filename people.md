@@ -7,7 +7,7 @@ subtitle:
 ## Current Lab Members
 
 ### Principal Investigator
-**[Dr José Cano Reyes](http://www.dcs.gla.ac.uk/~josecr/)** <br> <img src="/assets/img/people/jose_small_new.png" width="100px" style="float: left; margin-right: 20px;"> Lecturer (Assistant Professor)
+**[Dr José Cano Reyes](http://www.dcs.gla.ac.uk/~josecr/)** <br> <img src="/assets/img/people/jose_small_new.png" width="100px" style="float: left; margin-right: 20px;"> Senior Lecturer (Associate Professor)
 
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@jcanore](https://twitter.com/jcanore)
 <br><br>

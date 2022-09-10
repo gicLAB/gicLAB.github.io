@@ -26,13 +26,12 @@ Works on optimisation and adversarial robustness of AI models, aiming for a co-o
 ### PhD Students
 
 **[Perry Gibson](https://gibsonic.org) (Oct 2019 — Present)** <br>  <img src="/assets/img/people/pg_profile.jpg" width="100px" style="float: left; margin-right: 20px;">
-Across the machine learning stack, my view is that increasingly the centre is the tensor compiler: bridging the knowledge gap between models and hardware.
+ Topic: "Modular development of across-stack deep learning inference accelerators on heterogeneous devices" 
 
 <img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@PerryGibson_](https://twitter.com/PerryGibson_)
 <br><br>
 
 **[Jude Haris](gla.ac.uk/pgrs/judeharis/)** <br>  <img src="/assets/img/people/square_jude.jpg" width="100px" style="float: left; margin-right: 20px;">
-Works on FPGA based-DNN accelerators, and hardware driver compilation.
 Topic: "Designing and Generating Efficient FPGA-Based Accelerators for Deep Neural Networks" 
 <br><br>
 <br>
@@ -43,12 +42,11 @@ Topic: "Optimizing Natural Language Processing on Edge Devices"
 <br><br>
 
 **Nick Louloudakis** (co-supervised with Ajitha Rajan) <br>  <img src="/assets/img/people/Portrait_placeholder.png" width="100px" style="float: left; margin-right: 20px;">
-Present Topic: "Testing Perception AI on Hardware Accelerators" 
+Topic: "Testing Perception AI on Hardware Accelerators" 
 <br><br>
 <br>
 
 **Wenhao Hu** <br>  <img src="/assets/img/people/wenhao.png" width="100px" style="float: left; margin-right: 20px;">
-Works on DNN model compression approaches such as pruning, and efficiency focused NAS.
 Topic: "Exploring Novel Pruning Techniques for Deep Neural Networks" 
 <br><br>
 <br>

@@ -48,9 +48,11 @@ My research interest is DNN model compression approaches such as pruning, and ef
 ### Collaborators
 
 - [David Kaeli](https://coe.northeastern.edu/people/kaeli-david/) - Northeastern University
+- [Danilo Pietro Pau](https://www.linkedin.com/in/danilopietropau/) - ST Microelectronics
 
-<!-- ## Past Lab Members  -->
+### Former Members 
 
+- Martina Löfqvist
 <!-- ### Research Interns -->
 <!-- - Some Guy -->
 <!-- - Someone else (now @ company) -->

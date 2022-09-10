@@ -18,7 +18,7 @@ His research interests are in the broad areas of: Computer Architecture, Compute
 **[Ferheen Ayaz](https://www.linkedin.com/in/ferheen-ayaz-5631a71a7/)** <br>  <img src="/assets/img/people/Ferheen_Ayaz.jpg" width="100px" style="float: left; margin-right: 20px;">
 Works on optimisation and adversarial robustness of AI models, aiming for a co-optimisation strategy balancing security, compression and performance of intelligent edge IoT devices.
 <!-- Her research interests include cybersecurity and Tiny Machine Learning. -->
-<img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@ferheenayaz](https://twitter.com/@ferheenayaz) _(she/her)_
+<img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@ferheenayaz](https://twitter.com/@ferheenayaz)
 <br><br>
 <br>
 

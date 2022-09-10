@@ -48,6 +48,7 @@ Topic: "Testing Perception AI on Hardware Accelerators"
 Topic: "Exploring Novel Pruning Techniques for Deep Neural Networks" 
 <br><br>
 <br><br>
+<br>
 
 
 <!-- ### MSc Students -->
@@ -59,7 +60,7 @@ Topic: "Exploring Novel Pruning Techniques for Deep Neural Networks"
 - [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/) - University of Edinburgh
 
 <!-- ## Visiting Researchers-->
-<!-- <br> -->
+<br>
 
 ## Past Lab Members 
 

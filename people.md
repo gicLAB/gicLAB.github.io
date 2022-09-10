@@ -8,7 +8,6 @@ subtitle:
 
 ### Principal Investigator
 **[Dr José Cano Reyes](http://www.dcs.gla.ac.uk/~josecr/) — _Senior Lecturer (Associate Professor)_** <br> <img src="/assets/img/people/jose_small_new.png" width="100px" style="float: left; margin-right: 20px;">
-
 His research interests are in the broad areas of: Computer Architecture, Computer Systems, Compilers, Interconnection Networks, Machine Learning and Security.
 <img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@jcanore](https://twitter.com/jcanore)
 <br><br>

@@ -31,14 +31,16 @@ Across the machine learning stack, my view is that increasingly the centre is th
 **[Jude Haris](gla.ac.uk/pgrs/judeharis/)** <br>  <img src="/assets/img/people/square_jude.jpg" width="100px" style="float: left; margin-right: 20px;">
 My research area is FPGA based-DNN accelerators, however broadly I am interested in anything Computer Architecture!
 <br><br>
+<br>
 
 **Isak Bosman** <br>  <img src="/assets/img/people/Portrait_placeholder.png" width="100px" style="float: left; margin-right: 20px;">
 <br><br>
-<br>
+<br><br>
 
 **Nick Louloudakis** <br>  <img src="/assets/img/people/Portrait_placeholder.png" width="100px" style="float: left; margin-right: 20px;">
 University of Edinburgh, co-supervised with Ajitha Rajan, Present Topic: "Testing Perception AI on Hardware Accelerators" 
 <br><br>
+<br>
 
 **Wenhao Hu** <br>  <img src="/assets/img/people/wenhao.png" width="100px" style="float: left; margin-right: 20px;">
 My research interest is DNN model compression approaches such as pruning, and efficiency focused NAS. I am also interested in model optimization compiler topics.

@@ -11,6 +11,7 @@ subtitle:
 His research interests are in the broad areas of: Computer Architecture, Computer Systems, Compilers, Interconnection Networks, Machine Learning and Security.
 <img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@jcanore](https://twitter.com/jcanore)
 <br><br>
+<br>
 
 ### Post-doctoral Researchers
 **[Ferheen Ayaz](https://www.linkedin.com/in/ferheen-ayaz-5631a71a7/)** <br>  <img src="/assets/img/people/Ferheen_Ayaz.jpg" width="100px" style="float: left; margin-right: 20px;">
@@ -18,6 +19,7 @@ Works on optimisation and adversarial robustness of AI models, aiming for a co-o
 <!-- Her research interests include cybersecurity and Tiny Machine Learning. -->
 <img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@ferheenayaz](https://twitter.com/@ferheenayaz)
 <br><br>
+<br>
 
 ### PhD Students
 
@@ -54,6 +56,7 @@ My research interest is DNN model compression approaches such as pruning, and ef
 - [Danilo Pietro Pau](https://www.linkedin.com/in/danilopietropau/) - ST Microelectronics
 
 <!-- ## Visiting Researchers-->
+<br><br>
 <br>
 
 ## Past Lab Members 

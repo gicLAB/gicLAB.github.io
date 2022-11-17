@@ -49,6 +49,11 @@ Topic: "Exploring Novel Pruning Techniques for Deep Neural Networks"
 <br><br>
 <br><br>
 
+**Rappy Saha** <br>  <img src="/assets/img/people/Portrait_placeholder.png" width="100px" style="float: left; margin-right: 20px;">
+Topic: "..." 
+<br><br>
+<br><br>
+
 
 <!-- ### MSc Students -->
  
@@ -64,6 +69,7 @@ Topic: "Exploring Novel Pruning Techniques for Deep Neural Networks"
 ## Past Lab Members 
 
 - Martina Löfqvist
+- [Ferheen Ayaz](https://www.linkedin.com/in/ferheen-ayaz-5631a71a7/)
 <!-- ### Research Interns -->
 <!-- - Some Guy -->
 <!-- - Someone else (now @ company) -->

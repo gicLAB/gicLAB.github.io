@@ -6,7 +6,11 @@ subtitle:
 
 # 2022
 
-- A. Stjerngren, P. Gibson, J. Cano, *‘Bifrost: End-to-End Evaluation and Optimization of Reconfigurable DNN Accelerators’* in IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Singapore, May 2022. [     arXiv:2204.12418](https://arxiv.org/abs/2204.12418), [Code](https://github.com/gicLAB/bifrost).
+- J. Haris, P. Gibson, J. Cano, N. Bohm Agostini, D. Kaeli, *'SECDA-TFLite: A Toolkit for Efficient Development of FPGA-based DNN Accelerators for Edge Inference'*, (to appear) in Elsevier Journal of Parallel and Distributed Computing (JPDC), 2023, [Code artifact](https://github.com/gicLAB/SECDA-TFLite).
+
+- P. Gibson, J. Cano,  *'Transfer-Tuning: Reusing Auto-Schedules for Efficient Tensor Program Code Generation'* in 31st International Conference on Parallel Architectures and Compilation Techniques (PACT), Chicago, USA, October 2022. [Preprint](https://arxiv.org/abs/2201.05587), [Code artifact](https://github.com/gicLAB/transfer-tuning).
+
+- A. Stjerngren, P. Gibson, J. Cano, *‘Bifrost: End-to-End Evaluation and Optimization of Reconfigurable DNN Accelerators’* in IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Singapore, May 2022. [arXiv:2204.12418](https://arxiv.org/abs/2204.12418), [Code](https://github.com/gicLAB/bifrost).
 
 
 # 2021

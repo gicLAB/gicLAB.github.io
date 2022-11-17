@@ -46,7 +46,7 @@ Topic: "Exploring Novel Pruning Techniques for Deep Neural Networks"
 <br><br>
 <br><br>
 
-**[Rappy Saha](https://rappysaha.github.io/)** <br>  <img src="/assets/img/people/Portrait_placeholder.png" width="100px" style="float: left; margin-right: 20px;">
+**[Rappy Saha](https://rappysaha.github.io/)** <br>  <img src="/assets/img/people/rappy.jpg" width="100px" style="float: left; margin-right: 20px;">
 Topic: "'Efficient ML model implementation in FPGAs" 
 <br><br>
 <br><br>

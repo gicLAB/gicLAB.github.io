@@ -21,7 +21,7 @@ Works on optimisation and adversarial robustness of AI models, aiming for a co-o
 ### PhD Students
 
 **[Perry Gibson](https://gibsonic.org)** <br>  <img src="/assets/img/people/pg_profile.jpg" width="100px" style="float: left; margin-right: 20px;">
- Topic: "Modular development of across-stack deep learning inference accelerators on heterogeneous devices" 
+ Topic: "Compiler-centric across-stack deep learning inference acceleration" 
 <img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@PerryGibson_](https://twitter.com/PerryGibson_)
 <br><br>
 <br>

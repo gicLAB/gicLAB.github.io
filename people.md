@@ -61,7 +61,6 @@ Topic: "..."
 - [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/) - University of Edinburgh
 
 <!-- ## Visiting Researchers-->
-<br>
 
 ## Past Lab Members 
 

@@ -4,9 +4,11 @@ title: Publications
 subtitle:
 ---
 
-# 2022
+# 2023
 
 - J. Haris, P. Gibson, J. Cano, N. Bohm Agostini, D. Kaeli, *'SECDA-TFLite: A Toolkit for Efficient Development of FPGA-based DNN Accelerators for Edge Inference'*, (to appear) in Elsevier Journal of Parallel and Distributed Computing (JPDC), 2023, [Code artifact](https://github.com/gicLAB/SECDA-TFLite).
+
+# 2022
 
 - P. Gibson, J. Cano,  *'Transfer-Tuning: Reusing Auto-Schedules for Efficient Tensor Program Code Generation'* in 31st International Conference on Parallel Architectures and Compilation Techniques (PACT), Chicago, USA, October 2022. [Preprint](https://arxiv.org/abs/2201.05587), [Code artifact](https://github.com/gicLAB/transfer-tuning).
 

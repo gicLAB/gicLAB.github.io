@@ -31,7 +31,7 @@ Topic: "Designing and Generating Efficient FPGA-Based Accelerators for Deep Neur
 <br><br>
 <br>
 
-**[Nick Louloudakis](https://luludak.github.io/)** (co-supervised with [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/) at Univeristy of Edinburgh) <br>  <img src="/assets/img/people/Portrait_placeholder.png" width="100px" style="float: left; margin-right: 20px;">
+**[Nick Louloudakis](https://luludak.github.io/)** (co-supervised with [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/) at Univeristy of Edinburgh) <br>  <img src="/assets/img/people/nickl.jpg" width="100px" style="float: left; margin-right: 20px;">
 Topic: "Testing Perception AI on Hardware Accelerators" 
 <br><br>
 <br><br>

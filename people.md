@@ -59,7 +59,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
 <!-- ### MSc Students -->
 
  
-## Collaborators
+## External Collaborators
 
 - [David Kaeli](https://coe.northeastern.edu/people/kaeli-david/) - Northeastern University, USA
 - [José L. Abellán](https://sites.google.com/ucam.edu/jlabellan) - UCAM, Spain

@@ -49,7 +49,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 ### MSci Students
 
-**[Peter Dodd]** <br>  
+**Peter Dodd** <br>  <img src="/assets/img/people/peter.png" width="100px" style="float: left; margin-right: 20px;">
  Topic: "Non-iterative Training of Deep Neural Networks" 
 <br><br>
 <br>
@@ -69,7 +69,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 ## Past Lab Members 
 
-- Martina Löfqvist
+- [Martina Löfqvist](https://www.linkedin.com/in/martinalofqvist/)
 - [Ferheen Ayaz](https://www.linkedin.com/in/ferheen-ayaz-5631a71a7/)
 - Isak Bosman
 <!-- ### Research Interns -->

@@ -28,6 +28,8 @@ subtitle:
 
 # 2020
 
+- N. Bohm Agostini, S. Dong, E. Karimi, M. Torrents, J. Cano, J. L. Abellán, D. Kaeli, *‘Design Space Exploration of Accelerators and End-to-End DNN Evaluation with TFLITE-SOC’*, in 32nd IEEE International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), Porto, Portugal, September 2020.
+
 - P. Gibson, J. Cano, J. Turner, E. J. Crowley, M. O’Boyle, and A. Storkey, *‘Optimizing grouped convolutions on edge devices’*, in 2020 IEEE 31st international conference on application-specific systems, architectures and processors (ASAP), 2020, pp. 189–196. [[Paper]](https://ieeexplore.ieee.org/document/9153227/), [[arXiv]](https://arxiv.org/abs/2006.09791), [[Code]](https://github.com/apache/tvm/blob/main/python/tvm/topi/x86/group_conv2d.py#L109).
 
 - P. Gibson and J. Cano, *‘Orpheus: A new deep learning framework for easy deployment and evaluation of edge inference’*, in 2020 IEEE international symposium on performance analysis of systems and software (ISPASS), 2020, pp. 229–230. [[Paper]](https://ieeexplore.ieee.org/document/9238597), [[arXiv]](https://arxiv.org/abs/2007.13648).

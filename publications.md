@@ -10,7 +10,7 @@ subtitle:
 
 # 2022
 
-- N. Louloudakis, P. Gibson, J. Cano, A. Rajan, *'Assessing Robustness of Image Recognition Models to Changes in the Computational Environment'*, (to appear) in NeurIPS ML Safety Workshop (MLSW) co-located with NeurIPS, Hybrid Conference, November-December 2022. [[Pre-print]](https://arxiv.org/abs/2211.00471).
+- N. Louloudakis, P. Gibson, J. Cano, A. Rajan, *'Assessing Robustness of Image Recognition Models to Changes in the Computational Environment'*, (to appear) in NeurIPS ML Safety Workshop (MLSW) co-located with NeurIPS, Hybrid Conference, November-December 2022. [[Pre-print]](https://www.dcs.gla.ac.uk/~josecr/pub/2022_MLSW.pdf).
 
 - P. Gibson, J. Cano,  *'Transfer-Tuning: Reusing Auto-Schedules for Efficient Tensor Program Code Generation'* in 31st International Conference on Parallel Architectures and Compilation Techniques (PACT), Chicago, USA, October 2022. [[Pre-print]](https://arxiv.org/abs/2201.05587), [[Code artifact]](https://github.com/gicLAB/transfer-tuning).
 

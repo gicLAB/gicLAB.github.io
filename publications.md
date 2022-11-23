@@ -16,7 +16,7 @@ subtitle:
 
 - A. Stjerngren, P. Gibson, J. Cano, *‘Bifrost: End-to-End Evaluation and Optimization of Reconfigurable DNN Accelerators’* in IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Singapore, May 2022. [[Paper]](https://ieeexplore.ieee.org/document/9804659/), [[arXiv]](https://arxiv.org/abs/2204.12418), [[Code]](https://github.com/gicLAB/bifrost).
 
-- P. Gibson, J. Cano, *'Productive Reproducible Workflows for DNNs: A Case Study for Industrial Defect Detection'*, at 4th Workshop on Accelerated Machine Learning (AccML) co-located with HiPEAC, Budapest, Hungary, June 2022. [[Paper]](https://arxiv.org/abs/2206.09359v1).
+- P. Gibson, J. Cano, *'Productive Reproducible Workflows for DNNs: A Case Study for Industrial Defect Detection'*, at 4th Workshop on Accelerated Machine Learning (AccML) co-located with HiPEAC, Budapest, Hungary, June 2022. [[Paper]](https://accml.dcs.gla.ac.uk/papers/2022/4thAccML_paper_2(16).pdf).
 
 
 # 2021

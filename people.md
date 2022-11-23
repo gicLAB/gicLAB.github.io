@@ -64,6 +64,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
 - [David Kaeli](https://coe.northeastern.edu/people/kaeli-david/) - Northeastern University, USA
 - [José L. Abellán](https://sites.google.com/ucam.edu/jlabellan) - UCAM, Spain
 - [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/) - University of Edinburgh, UK
+- [Elliot J. Crowley](https://elliotjcrowley.github.io/) - University of Edinburgh, UK
 - [Danilo Pietro Pau](https://www.linkedin.com/in/danilopietropau/) - STMicroelectronics
 - [Mounia Kharbouche-Harrari](https://www.linkedin.com/in/mounia-kharbouche-harrari-6612b810a/) - STMicroelectronics
 

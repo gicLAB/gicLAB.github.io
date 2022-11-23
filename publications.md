@@ -21,6 +21,8 @@ subtitle:
 
 # 2021
 
+- S. Dong, Y. Sun, N. Bohm Agostini, E. Karimi, D. Lowell, J. Zhou, J. Cano, J. L. Abellán, D. Kaeli, *‘Spartan: A Sparsity-Adaptive Framework to Accelerate Deep Neural Network Training on GPUs’*, in IEEE Transactions on Parallel and Distributed Systems (TPDS), October 2021.
+
 - J. Haris, P. Gibson, J. Cano, N. B. Agostini, and D. Kaeli, *‘SECDA: Efficient Hardware/Software Co-Design of FPGA-based DNN Accelerators for Edge Inference’*, in 2021 IEEE 33rd International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), Oct. 2021, pp. 33–43. [[Paper]](https://ieeexplore.ieee.org/document/9651579), [[arXiv]](https://arxiv.org/abs/2110.00478), [[Code]](https://github.com/giclab/secda).
 
 

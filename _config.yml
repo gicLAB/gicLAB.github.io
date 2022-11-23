@@ -20,7 +20,7 @@ navbar-links:
   Projects: "projects"
   Openings: "openings"
   News: "blog"
-  Contact: "contact"
+#   Contact: "contact"
 
 # --- Logo --- #
 

@@ -71,7 +71,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 
 ## Industry Collaborators
-- [Danilo Pietro Pau](https://www.linkedin.com/in/danilopietropau/) - STMicroelectronics
+- [Danilo Pau](https://www.linkedin.com/in/danilopietropau/) - STMicroelectronics
 - [Mounia Kharbouche-Harrari](https://www.linkedin.com/in/mounia-kharbouche-harrari-6612b810a/) - STMicroelectronics
 
 <!-- ## Visiting Researchers-->

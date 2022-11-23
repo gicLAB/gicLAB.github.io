@@ -26,8 +26,9 @@ Works on optimisation and adversarial robustness of AI models, aiming for a co-o
 <br><br>
 <br>
 
-**[Jude Haris](https://www.linkedin.com/in/jude-haris-a01060243/)** <br>  <img src="/assets/img/people/square_jude.jpg" width="100px" style="float: left; margin-right: 20px;"> [@memjude](https://twitter.com/memjude)
+**[Jude Haris](https://www.linkedin.com/in/jude-haris-a01060243/)** <br>  <img src="/assets/img/people/square_jude.jpg" width="100px" style="float: left; margin-right: 20px;">
 Topic: "Designing and Generating Efficient FPGA-Based Accelerators for Deep Neural Networks" 
+<img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@memjude](https://twitter.com/memjude)
 <br><br>
 <br>
 

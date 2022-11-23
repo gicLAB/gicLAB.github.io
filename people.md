@@ -72,8 +72,9 @@ Topic: "'Efficient ML model implementation in FPGAs"
 ## Past Lab Members 
 
 - [Martina Löfqvist](https://www.linkedin.com/in/martinalofqvist/)
+- [Axel Stjerngren](https://www.linkedin.com/in/axel-stjerngren/)
 - [Ferheen Ayaz](https://www.linkedin.com/in/ferheen-ayaz-5631a71a7/)
-- Isak Bosman
+- [Isak Bosman](https://www.linkedin.com/in/isak-bosman/)
 <!-- ### Research Interns -->
 <!-- - Some Guy -->
 <!-- - Someone else (now @ company) -->

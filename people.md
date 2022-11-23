@@ -36,7 +36,7 @@ Topic: "Testing Perception AI on Hardware Accelerators"
 <br><br>
 <br><br>
 
-**Wenhao Hu** <br>  <img src="/assets/img/people/wenhao.png" width="100px" style="float: left; margin-right: 20px;">
+**[Wenhao Hu](https://www.linkedin.com/in/%E6%96%87%E8%B1%AA-%E8%83%A1-3500a3111/)** <br>  <img src="/assets/img/people/wenhao.png" width="100px" style="float: left; margin-right: 20px;">
 Topic: "Exploring Novel Pruning Techniques for Deep Neural Networks" 
 <br><br>
 <br><br>

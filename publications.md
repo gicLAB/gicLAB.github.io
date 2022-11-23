@@ -30,7 +30,7 @@ subtitle:
 
 # 2020
 
-- N. Bohm Agostini, S. Dong, E. Karimi, M. Torrents, J. Cano, J. L. Abellán, D. Kaeli, *‘Design Space Exploration of Accelerators and End-to-End DNN Evaluation with TFLITE-SOC’*, in 32nd IEEE International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), Porto, Portugal, September 2020.
+- N. Bohm Agostini, S. Dong, E. Karimi, M. Torrents, J. Cano, J. L. Abellán, D. Kaeli, *‘Design Space Exploration of Accelerators and End-to-End DNN Evaluation with TFLITE-SOC’*, in 32nd IEEE International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), September 2020. [[Paper]](https://ieeexplore.ieee.org/document/9235056).
 
 - P. Gibson and J. Cano, *‘Orpheus: A new deep learning framework for easy deployment and evaluation of edge inference’*, in 2020 IEEE international symposium on performance analysis of systems and software (ISPASS), August 2020, pp. 229–230. [[Paper]](https://ieeexplore.ieee.org/document/9238597), [[arXiv]](https://arxiv.org/abs/2107.03774).
 

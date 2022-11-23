@@ -66,6 +66,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
 - [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/) - University of Edinburgh, UK
 - [Elliot J. Crowley](https://elliotjcrowley.github.io/) - University of Edinburgh, UK
 - [Jeremy Singer](https://www.dcs.gla.ac.uk/~jsinger/) - University of Glasgow, UK
+- [José Duato](http://www.gap.upv.es/index.php/members/1-jose-duato) - UPV, Spain
 - [Sye Loong Keoh](https://www.gla.ac.uk/schools/computing/staff/syeloongkeoh/) - University of Glasgow, UK
 
 

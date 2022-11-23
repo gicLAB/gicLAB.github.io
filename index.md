@@ -1,11 +1,11 @@
 ---
 layout: home
 title: gicLAB
-subtitle: Glasgow Intelligent Computing Lab
+subtitle: Glasgow Intelligent Computing Laboratory 
 ---
 
 
-The Glasgow Intelligent Computing Lab (_gicLAB_ for short), is a research group in the [School of Computing Science](https://www.gla.ac.uk/schools/computing/) at the [University of Glasgow](https://www.gla.ac.uk/).
+The Glasgow Intelligent Computing Laboratory (_gicLAB_ for short), is a research group in the [School of Computing Science](https://www.gla.ac.uk/schools/computing/) at the [University of Glasgow](https://www.gla.ac.uk/).
 We are part of the [Glasgow Systems Section (GLASS)](https://www.gla.ac.uk/schools/computing/research/researchsections/systems-section/#overview), where we focus on research at the intersection of Computing Systems and Machine Learning.
 
 For the latest updates, our Twitter is [@gic_lab](https://www.twitter.com/gic_lab), and our GitHub is [@gicLAB]([https://github.com/gicLAB/).

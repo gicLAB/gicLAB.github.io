@@ -25,15 +25,15 @@ subtitle:
 
 - J. Haris, P. Gibson, J. Cano, N. B. Agostini, and D. Kaeli, *‘SECDA: Efficient Hardware/Software Co-Design of FPGA-based DNN Accelerators for Edge Inference’*, in 2021 IEEE 33rd International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), Oct. 2021, pp. 33–43. [[Paper]](https://ieeexplore.ieee.org/document/9651579), [[arXiv]](https://arxiv.org/abs/2110.00478), [[Code]](https://github.com/giclab/secda).
 
-- M. Lofqvist, J. Cano, *‘Optimizing Data Processing in Space for Object Detection in Satellite Imagery’*, in Workshop at 35th Annual Small Satellite Conference (SmallSat), Virtual Event, August 2021.
+- M. Lofqvist, J. Cano, *‘Optimizing Data Processing in Space for Object Detection in Satellite Imagery’*, in Workshop at 35th Annual Small Satellite Conference (SmallSat), Virtual Event, August 2021. 
 
 
 # 2020
 
 - N. Bohm Agostini, S. Dong, E. Karimi, M. Torrents, J. Cano, J. L. Abellán, D. Kaeli, *‘Design Space Exploration of Accelerators and End-to-End DNN Evaluation with TFLITE-SOC’*, in 32nd IEEE International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), Porto, Portugal, September 2020.
 
-- P. Gibson and J. Cano, *‘Orpheus: A new deep learning framework for easy deployment and evaluation of edge inference’*, in 2020 IEEE international symposium on performance analysis of systems and software (ISPASS), August 2020, pp. 229–230. [[Paper]](https://ieeexplore.ieee.org/document/9238597), [[arXiv]](https://arxiv.org/abs/2007.13648).
+- P. Gibson and J. Cano, *‘Orpheus: A new deep learning framework for easy deployment and evaluation of edge inference’*, in 2020 IEEE international symposium on performance analysis of systems and software (ISPASS), August 2020, pp. 229–230. [[Paper]](https://ieeexplore.ieee.org/document/9238597), [[arXiv]](https://arxiv.org/abs/2107.03774).
 
-- M. Lofqvist, J. Cano, *‘Accelerating Deep Learning Applications in Space’*, in Workshop at 34th Annual Small Satellite Conference (SmallSat), Virtual Event, August 2020.
+- M. Lofqvist, J. Cano, *‘Accelerating Deep Learning Applications in Space’*, in Workshop at 34th Annual Small Satellite Conference (SmallSat), Virtual Event, August 2020. [[Paper]](https://digitalcommons.usu.edu/smallsat/2020/all2020/21/), [[arXiv]](https://arxiv.org/abs/2007.11089).
 
 - P. Gibson, J. Cano, J. Turner, E. J. Crowley, M. O’Boyle, and A. Storkey, *‘Optimizing grouped convolutions on edge devices’*, in 2020 IEEE 31st international conference on application-specific systems, architectures and processors (ASAP), July 2020, pp. 189–196. [[Paper]](https://ieeexplore.ieee.org/document/9153227/), [[arXiv]](https://arxiv.org/abs/2006.09791), [[Code]](https://github.com/apache/tvm/blob/main/python/tvm/topi/x86/group_conv2d.py#L109).

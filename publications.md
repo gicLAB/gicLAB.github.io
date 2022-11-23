@@ -6,7 +6,7 @@ subtitle:
 
 # 2023
 
-- J. Haris, P. Gibson, J. Cano, N. Bohm Agostini, D. Kaeli, *'SECDA-TFLite: A Toolkit for Efficient Development of FPGA-based DNN Accelerators for Edge Inference'*, (to appear) in Elsevier Journal of Parallel and Distributed Computing (JPDC), 2023. [[Code]](https://github.com/gicLAB/SECDA-TFLite).
+- J. Haris, P. Gibson, J. Cano, N. Bohm Agostini, D. Kaeli, *'SECDA-TFLite: A Toolkit for Efficient Development of FPGA-based DNN Accelerators for Edge Inference'*, (to appear) in Elsevier Journal of Parallel and Distributed Computing (<b>JPDC</b>), 2023. [[Code]](https://github.com/gicLAB/SECDA-TFLite).
 
 # 2022
 

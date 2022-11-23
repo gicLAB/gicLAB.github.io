@@ -52,10 +52,11 @@ Topic: "'Efficient ML model implementation in FPGAs"
 **Peter Dodd** <br>  <img src="/assets/img/people/peter.png" width="100px" style="float: left; margin-right: 20px;">
  Topic: "Non-iterative Training of Deep Neural Networks" 
 <br><br>
-<br>
+<br><br>
 
 
 <!-- ### MSc Students -->
+
  
 ## Collaborators
 

@@ -80,9 +80,9 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 ## Past Lab Members 
 
-- [Ferheen Ayaz](https://ferheenayaz.github.io/), currenty at University of Sussex
-- [Axel Stjerngren](https://www.linkedin.com/in/axel-stjerngren/), currenty at DeepMind
-- [Martina Löfqvist](https://www.linkedin.com/in/martinalofqvist/), currenty at Destinus
+- [Ferheen Ayaz](https://ferheenayaz.github.io/), currently at University of Sussex
+- [Axel Stjerngren](https://www.linkedin.com/in/axel-stjerngren/), currently at DeepMind
+- [Martina Löfqvist](https://www.linkedin.com/in/martinalofqvist/), currently at Destinus
 <!-- - [Isak Bosman](https://www.linkedin.com/in/isak-bosman/)-->
 
 <!-- ### Research Interns -->

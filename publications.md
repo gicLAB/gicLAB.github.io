@@ -12,11 +12,11 @@ subtitle:
 
 - N. Louloudakis, P. Gibson, J. Cano, A. Rajan, *'Assessing Robustness of Image Recognition Models to Changes in the Computational Environment'*, (to appear) in NeurIPS ML Safety Workshop (<b>MLSW</b>) co-located with NeurIPS, Hybrid Conference, November-December 2022. [[Pre-print]](https://www.dcs.gla.ac.uk/~josecr/pub/2022_MLSW.pdf).
 
-- P. Gibson, J. Cano,  *'Transfer-Tuning: Reusing Auto-Schedules for Efficient Tensor Program Code Generation'* in 31st International Conference on Parallel Architectures and Compilation Techniques (<b>PACT</b>), Chicago, USA, October 2022. [[Pre-print]](https://arxiv.org/abs/2201.05587), [[Code artifact]](https://github.com/gicLAB/transfer-tuning).
+- P. Gibson, J. Cano,  *'Transfer-Tuning: Reusing Auto-Schedules for Efficient Tensor Program Code Generation'*, in 31st International Conference on Parallel Architectures and Compilation Techniques (<b>PACT</b>), Chicago, USA, October 2022. [[Pre-print]](https://arxiv.org/abs/2201.05587), [[Code artifact]](https://github.com/gicLAB/transfer-tuning).
 
-- A. Stjerngren, P. Gibson, J. Cano, *‘Bifrost: End-to-End Evaluation and Optimization of Reconfigurable DNN Accelerators’* in IEEE International Symposium on Performance Analysis of Systems and Software (<b>ISPASS</b>), Singapore, May 2022. [[Paper]](https://ieeexplore.ieee.org/document/9804659/), [[arXiv]](https://arxiv.org/abs/2204.12418), [[Code]](https://github.com/gicLAB/bifrost).
+- A. Stjerngren, P. Gibson, J. Cano, *‘Bifrost: End-to-End Evaluation and Optimization of Reconfigurable DNN Accelerators’*, in IEEE International Symposium on Performance Analysis of Systems and Software (<b>ISPASS</b>), Singapore, May 2022. [[Paper]](https://ieeexplore.ieee.org/document/9804659/), [[arXiv]](https://arxiv.org/abs/2204.12418), [[Code]](https://github.com/gicLAB/bifrost).
 
-- P. Gibson, J. Cano, *'Productive Reproducible Workflows for DNNs: A Case Study for Industrial Defect Detection'*, at 4th Workshop on Accelerated Machine Learning (<b>AccML</b>) co-located with HiPEAC, Budapest, Hungary, June 2022. [[Paper]](https://accml.dcs.gla.ac.uk/papers/2022/4thAccML_paper_2(16).pdf).
+- P. Gibson, J. Cano, *'Productive Reproducible Workflows for DNNs: A Case Study for Industrial Defect Detection'*, in 4th Workshop on Accelerated Machine Learning (<b>AccML</b>) co-located with HiPEAC, Budapest, Hungary, June 2022. [[Paper]](https://accml.dcs.gla.ac.uk/papers/2022/4thAccML_paper_2(16).pdf).
 
 
 # 2021
@@ -25,7 +25,7 @@ subtitle:
 
 - J. Haris, P. Gibson, J. Cano, N. B. Agostini, and D. Kaeli, *‘SECDA: Efficient Hardware/Software Co-Design of FPGA-based DNN Accelerators for Edge Inference’*, in 2021 IEEE 33rd International Symposium on Computer Architecture and High Performance Computing (<b>SBAC-PAD</b>), October 2021, pp. 33–43. [[Paper]](https://ieeexplore.ieee.org/document/9651579), [[arXiv]](https://arxiv.org/abs/2110.00478), [[Code]](https://github.com/giclab/secda).
 
-- M. Lofqvist, J. Cano, *‘Optimizing Data Processing in Space for Object Detection in Satellite Imagery’*, in Workshop at 35th Annual Small Satellite Conference (<b>SmallSat</b>), Virtual Event, August 2021. [[Paper]](https://digitalcommons.usu.edu/smallsat/2021/all2021/135/), [[arXiv]](https://arxiv.org/abs/2107.03774).
+- M. Lofqvist, J. Cano, *‘Optimizing Data Processing in Space for Object Detection in Satellite Imagery’*, in 35th Annual Small Satellite Conference (<b>SmallSat</b>), Virtual Event, August 2021. [[Paper]](https://digitalcommons.usu.edu/smallsat/2021/all2021/135/), [[arXiv]](https://arxiv.org/abs/2107.03774).
 
 
 # 2020
@@ -34,6 +34,6 @@ subtitle:
 
 - P. Gibson and J. Cano, *‘Orpheus: A new deep learning framework for easy deployment and evaluation of edge inference’*, in 2020 IEEE international symposium on performance analysis of systems and software (<b>ISPASS</b>), Virtual Meeting, August 2020, pp. 229–230. [[Paper]](https://ieeexplore.ieee.org/document/9238597), [[arXiv]](https://arxiv.org/abs/2107.03774).
 
-- M. Lofqvist, J. Cano, *‘Accelerating Deep Learning Applications in Space’*, in Workshop at 34th Annual Small Satellite Conference (<b>SmallSat</b>), Virtual Event, August 2020. [[Paper]](https://digitalcommons.usu.edu/smallsat/2020/all2020/21/), [[arXiv]](https://arxiv.org/abs/2007.11089).
+- M. Lofqvist, J. Cano, *‘Accelerating Deep Learning Applications in Space’*, in 34th Annual Small Satellite Conference (<b>SmallSat</b>), Virtual Event, August 2020. [[Paper]](https://digitalcommons.usu.edu/smallsat/2020/all2020/21/), [[arXiv]](https://arxiv.org/abs/2007.11089).
 
 - P. Gibson, J. Cano, J. Turner, E. J. Crowley, M. O’Boyle, and A. Storkey, *‘Optimizing grouped convolutions on edge devices’*, in 2020 IEEE 31st international conference on application-specific systems, architectures and processors (<b>ASAP</b>), Manchester, UK, July 2020, pp. 189–196. [[Paper]](https://ieeexplore.ieee.org/document/9153227/), [[arXiv]](https://arxiv.org/abs/2006.09791), [[Code]](https://github.com/apache/tvm/blob/main/python/tvm/topi/x86/group_conv2d.py#L109).

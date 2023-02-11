@@ -62,16 +62,15 @@ Topic: "'Efficient ML model implementation in FPGAs"
  
 ## Academic Collaborators
 
-- [David Kaeli](https://coe.northeastern.edu/people/kaeli-david/) - Northeastern University, USA
-- [José L. Abellán](https://sites.google.com/ucam.edu/jlabellan) - UCAM, Spain
-- [Michael O'Boyle](https://www.dcs.ed.ac.uk/home/mob/) - University of Edinburgh, UK
-- [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/) - University of Edinburgh, UK
+- [José L. Abellán](https://sites.google.com/view/jlabellan) - University of Murcia, Spain
 - [Elliot J. Crowley](https://elliotjcrowley.github.io/) - University of Edinburgh, UK
 - [José Duato](http://www.gap.upv.es/index.php/members/1-jose-duato) - UPV, Spain
-- [Jeremy Singer](https://www.dcs.gla.ac.uk/~jsinger/) - University of Glasgow, UK
+- [David Kaeli](https://coe.northeastern.edu/people/kaeli-david/) - Northeastern University, USA
 - [Sye Loong Keoh](https://www.gla.ac.uk/schools/computing/staff/syeloongkeoh/) - University of Glasgow, UK
+- [Michael O'Boyle](https://www.dcs.ed.ac.uk/home/mob/) - University of Edinburgh, UK
+- [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/) - University of Edinburgh, UK
+- [Jeremy Singer](https://www.dcs.gla.ac.uk/~jsinger/) - University of Glasgow, UK
 - [Wim Vanderbauwhede](https://www.dcs.gla.ac.uk/~wim/) - University of Glasgow, UK
-
 
 ## Industry Collaborators
 - [Danilo Pau](https://www.linkedin.com/in/danilopietropau/) - STMicroelectronics

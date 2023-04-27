@@ -6,6 +6,8 @@ subtitle:
 
 # 2023
 
+- F. Ayaz, I. Zakariyya, J. Cano, S. L. Keoh, J. Singer, D. Pau, M. Kharbouche-Harrari, 'Improving Robustness Against Adversarial Attacks with Deeply Quantized Neural Networks', (to appear) in International Joint Conference on Neural Networks (IJCNN), Gold Coast, Australia, June 2023. [[Pre-print]](https://arxiv.org/abs/2304.12829)
+
 - J. Haris, P. Gibson, J. Cano, N. Bohm Agostini, D. Kaeli, *'SECDA-TFLite: A Toolkit for Efficient Development of FPGA-based DNN Accelerators for Edge Inference'*, (to appear) in Elsevier Journal of Parallel and Distributed Computing (**JPDC**), Volume 173, March 2023. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0743731522002301) [[Code]](https://github.com/gicLAB/SECDA-TFLite)
 
 # 2022

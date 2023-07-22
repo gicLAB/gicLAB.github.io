@@ -48,8 +48,13 @@ Topic: "'Efficient ML model implementation in FPGAs"
 <br><br>
 
 
-### MSci Students
+### MSc Students
 
+**[Vinamra Sharma]([https://rappysaha.github.io/](https://www.linkedin.com/in/vinamra-sharma/))** <br>  <img src="/assets/img/people/vinamra.png" width="100px" style="float: left; margin-right: 20px;">
+ Topic: "On-device Learning"
+ <br><br>
+ <br><br>
+ 
 **Peter Dodd** <br>  <img src="/assets/img/people/peter.png" width="100px" style="float: left; margin-right: 20px;">
  Topic: "Non-iterative Training of Deep Neural Networks" 
 <br><br>
@@ -85,8 +90,8 @@ Topic: "'Efficient ML model implementation in FPGAs"
 ## Past Lab Members 
 
 - [Ferheen Ayaz](https://ferheenayaz.github.io/), currently at University of Sussex
-- [Axel Stjerngren](https://www.linkedin.com/in/axel-stjerngren/), currently at DeepMind
 - [Martina Löfqvist](https://www.linkedin.com/in/martinalofqvist/), currently at Destinus
+- [Axel Stjerngren](https://www.linkedin.com/in/axel-stjerngren/), currently at DeepMind
 <!-- - [Isak Bosman](https://www.linkedin.com/in/isak-bosman/)-->
 
 <!-- ### Research Interns -->

@@ -50,7 +50,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 ### MSc Students
 
-**[Vinamra Sharma]([https://rappysaha.github.io/](https://www.linkedin.com/in/vinamra-sharma/))** <br>  <img src="/assets/img/people/vinamra.jpg" width="100px" style="float: left; margin-right: 20px;">
+**[Vinamra Sharma](https://www.linkedin.com/in/vinamra-sharma/)** <br>  <img src="/assets/img/people/vinamra.jpg" width="100px" style="float: left; margin-right: 20px;">
  Topic: "On-device Learning"
  <br><br>
  <br><br>

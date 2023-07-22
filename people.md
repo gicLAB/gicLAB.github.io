@@ -64,17 +64,21 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 - [José L. Abellán](https://sites.google.com/view/jlabellan) - University of Murcia, Spain
 - [Elliot J. Crowley](https://elliotjcrowley.github.io/) - University of Edinburgh, UK
-- [José Duato](http://www.gap.upv.es/index.php/members/1-jose-duato) - UPV, Spain
+- [Manuel F. Dolz](https://sites.google.com/uji.es/manuel-f-dolz) - Universitat Jaume I, Spain
+- [José Duato](http://www.gap.upv.es/index.php/members/1-jose-duato) - Universitat Politècnica de València, Spain
 - [David Kaeli](https://coe.northeastern.edu/people/kaeli-david/) - Northeastern University, USA
 - [Sye Loong Keoh](https://www.gla.ac.uk/schools/computing/staff/syeloongkeoh/) - University of Glasgow, UK
 - [Michael O'Boyle](https://www.dcs.ed.ac.uk/home/mob/) - University of Edinburgh, UK
 - [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/) - University of Edinburgh, UK
+- [Enrique S Quintana-Ortí](http://www.disca.upv.es/enquior/) - Universitat Politècnica de València, Spain
 - [Jeremy Singer](https://www.dcs.gla.ac.uk/~jsinger/) - University of Glasgow, UK
+- [Nima TaheriNejad ](https://www.ziti.uni-heidelberg.de/ziti/en/institut/forschung/ag-cat) - Heidelberg University, Germany
 - [Wim Vanderbauwhede](https://www.dcs.gla.ac.uk/~wim/) - University of Glasgow, UK
 
 ## Industry Collaborators
-- [Danilo Pau](https://www.linkedin.com/in/danilopietropau/) - STMicroelectronics
+- [Ian Colbert](https://www.linkedin.com/in/mounia-kharbouche-harrari-6612b810a/) - AMD
 - [Mounia Kharbouche-Harrari](https://www.linkedin.com/in/mounia-kharbouche-harrari-6612b810a/) - STMicroelectronics
+- [Danilo Pau](https://www.linkedin.com/in/danilopietropau/) - STMicroelectronics
 
 <!-- ## Visiting Researchers-->
 

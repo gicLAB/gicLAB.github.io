@@ -81,7 +81,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
 - [Wim Vanderbauwhede](https://www.dcs.gla.ac.uk/~wim/) - University of Glasgow, UK
 
 ## Industry Collaborators
-- [Ian Colbert](https://www.linkedin.com/in/mounia-kharbouche-harrari-6612b810a/) - AMD
+- [Ian Colbert](https://www.linkedin.com/in/ian-colbert/) - AMD
 - [Mounia Kharbouche-Harrari](https://www.linkedin.com/in/mounia-kharbouche-harrari-6612b810a/) - STMicroelectronics
 - [Danilo Pau](https://www.linkedin.com/in/danilopietropau/) - STMicroelectronics
 

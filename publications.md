@@ -6,13 +6,22 @@ subtitle:
 
 # 2023
 
-- F. Ayaz, I. Zakariyya, J. Cano, S. L. Keoh, J. Singer, D. Pau, M. Kharbouche-Harrari, 'Improving Robustness Against Adversarial Attacks with Deeply Quantized Neural Networks', (to appear) in International Joint Conference on Neural Networks (IJCNN), Gold Coast, Australia, June 2023. [[Pre-print]](https://arxiv.org/abs/2304.12829)
+- N. Louloudakis, P. Gibson, J. Cano, and A. Rajan
+    *'DeltaNN: Assessing the Impact of Computational Environment Parameters on the Performance of Image Recognition Models'*, to appear in IEEE International Conference on Software Maintenance and Evolution ([**ICSME**](https://conf.researchr.org/home/icsme-2023))
 
-- J. Haris, P. Gibson, J. Cano, N. Bohm Agostini, D. Kaeli, *'SECDA-TFLite: A Toolkit for Efficient Development of FPGA-based DNN Accelerators for Edge Inference'*, (to appear) in Elsevier Journal of Parallel and Distributed Computing (**JPDC**), Volume 173, March 2023. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0743731522002301) [[Code]](https://github.com/gicLAB/SECDA-TFLite)
+- W. Hu, P. Gibson, and J. Cano, *‘ICE-Pick: Iterative Cost-Efficient Pruning for DNNs’*, in 40th International Conference on Machine Learning ([**ICML**](https://icml.cc/)) ([Neural Compression Workshop (**NCW**)](https://neuralcompression.github.io/workshop23)). [[Paper]](https://openreview.net/forum?id=fWYKVtf7lu)
+
+- N. Louloudakis, P. Gibson, J. Cano, and A. Rajan
+    *'Fault Localization for Buggy Deep Learning Framework Conversions in Image Recognition'*, to appear in IEEE/ACM International Conference on Automated Software Engineering ([**ASE**](https://conf.researchr.org/home/ase-2023))
+
+
+- F. Ayaz, I. Zakariyya, J. Cano, S. L. Keoh, J. Singer, D. Pau, M. Kharbouche-Harrari, 'Improving Robustness Against Adversarial Attacks with Deeply Quantized Neural Networks', in International Joint Conference on Neural Networks (IJCNN), Gold Coast, Australia, June 2023. [[Pre-print]](https://arxiv.org/abs/2304.12829)
+
+- J. Haris, P. Gibson, J. Cano, N. Bohm Agostini, D. Kaeli, *'SECDA-TFLite: A Toolkit for Efficient Development of FPGA-based DNN Accelerators for Edge Inference'*, in Elsevier Journal of Parallel and Distributed Computing (**JPDC**), Volume 173, March 2023. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0743731522002301) [[Code]](https://github.com/gicLAB/SECDA-TFLite)
 
 # 2022
 
-- N. Louloudakis, P. Gibson, J. Cano, A. Rajan, *'Assessing Robustness of Image Recognition Models to Changes in the Computational Environment'*, (to appear) in NeurIPS ML Safety Workshop (<b>MLSW</b>) co-located with NeurIPS, Hybrid Conference, November-December 2022. [[Pre-print]](https://www.dcs.gla.ac.uk/~josecr/pub/2022_MLSW.pdf)
+- N. Louloudakis, P. Gibson, J. Cano, A. Rajan, *'Assessing Robustness of Image Recognition Models to Changes in the Computational Environment'*,  in NeurIPS ML Safety Workshop (<b>MLSW</b>) co-located with NeurIPS, Hybrid Conference, November-December 2022. [[Pre-print]](https://www.dcs.gla.ac.uk/~josecr/pub/2022_MLSW.pdf)
 
 - P. Gibson, J. Cano,  *'Transfer-Tuning: Reusing Auto-Schedules for Efficient Tensor Program Code Generation'*, in 31st International Conference on Parallel Architectures and Compilation Techniques (**PACT**), Chicago, USA, October 2022. [[Paper]](https://dl.acm.org/doi/10.1145/3559009.3569682) [[arXiv]](https://arxiv.org/abs/2201.05587) [[Code artifact]](https://github.com/gicLAB/transfer-tuning)
 

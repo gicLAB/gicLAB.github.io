@@ -19,7 +19,7 @@ The [MAISE project](https://petras-iot.org/project/multimodal-ai-based-security-
 
 ## Industry Collaboration
 Our group collaborates with researchers from a variety of companies and agencies, including:
- - ST Microelectronics
+ - STMicroelectronics
  - AMD
 
 If you're interested in collaborating on research there are opportunities for industrial PhDs, visiting researchers, and others.  Please [contact us](../contact) to discuss details.

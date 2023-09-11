@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New European Project: dAIedge kicks-off in Kaiserslautern
+title: "New European Project: dAIedge kicks-off in Kaiserslautern"
 tags: [Deep Neural Networks, tinyML, dAIedge]
 ---
 

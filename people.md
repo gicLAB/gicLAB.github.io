@@ -46,7 +46,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 ### MSc Students
 
-**[Hubert Dymarkowski](https://www.linkedin.com/in/hubert-dymarkowski-000880265/)** <br>  <img src="/assets/img/people/hubert.jpeg" width="100px" style="float: left; margin-right: 20px;">
+**[Hubert Dymarkowski](https://www.linkedin.com/in/hubert-dymarkowski-000880265/)** <br>  <img src="/assets/img/people/hubert.jpg" width="100px" style="float: left; margin-right: 20px;">
  Topic: "Design and implementation of FPGA accelerators for AI/ML applications"
  <br><br>
  <br><br>

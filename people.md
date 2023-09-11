@@ -71,12 +71,14 @@ Topic: "'Efficient ML model implementation in FPGAs"
 - [Elliot J. Crowley](https://elliotjcrowley.github.io/) - University of Edinburgh, UK
 - [Manuel F. Dolz](https://sites.google.com/uji.es/manuel-f-dolz) - Universitat Jaume I, Spain
 - [José Duato](http://www.gap.upv.es/index.php/members/1-jose-duato) - Universitat Politècnica de València, Spain
+- [Juan Gómez Luna](https://safari.ethz.ch/juan-gomez-luna/) - ETH Zürich, Switzerland
 - [David Kaeli](https://coe.northeastern.edu/people/kaeli-david/) - Northeastern University, USA
 - [Sye Loong Keoh](https://www.gla.ac.uk/schools/computing/staff/syeloongkeoh/) - University of Glasgow, UK
 - [Michael O'Boyle](https://www.dcs.ed.ac.uk/home/mob/) - University of Edinburgh, UK
 - [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/) - University of Edinburgh, UK
 - [Enrique S Quintana-Ortí](http://www.disca.upv.es/enquior/) - Universitat Politècnica de València, Spain
 - [Jeremy Singer](https://www.dcs.gla.ac.uk/~jsinger/) - University of Glasgow, UK
+- [Amos Storkey](https://homepages.inf.ed.ac.uk/amos/) - University of Edinburgh, UK
 - [Nima TaheriNejad ](https://www.ziti.uni-heidelberg.de/ziti/en/institut/forschung/ag-cat) - Heidelberg University, Germany
 - [Wim Vanderbauwhede](https://www.dcs.gla.ac.uk/~wim/) - University of Glasgow, UK
 

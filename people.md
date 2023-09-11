@@ -46,17 +46,15 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 ### MSc Students
 
+**[Hubert Dymarkowski](https://www.linkedin.com/in/hubert-dymarkowski-000880265/)** <br>  
+ Topic: "Design and implementation of FPGA accelerators for AI/ML applications"
+ <br><br>
+ <br><br>
+
 **[Vinamra Sharma](https://www.linkedin.com/in/vinamra-sharma/)** <br>  <img src="/assets/img/people/vinamra.jpeg" width="100px" style="float: left; margin-right: 20px;">
  Topic: "On-device Learning"
  <br><br>
  <br><br>
- 
-**Peter Dodd** <br>  <img src="/assets/img/people/peter.png" width="100px" style="float: left; margin-right: 20px;">
- Topic: "Non-iterative Training of Deep Neural Networks" 
-<br><br>
-<br><br>
-<br><br>
-
 
 <!-- ### MSc Students -->
 
@@ -87,10 +85,11 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 ## Past Lab Members 
 
-- [Idris Zakariyya](https://www.gla.ac.uk/schools/computing/staff/idriszakariyya/), currently at University of Glasgow
 - [Ferheen Ayaz](https://ferheenayaz.github.io/), currently at University of Sussex
+- [Peter Dodd](https://www.linkedin.com/in/pete-dodd-3b5001205/), currently at University of Glasgow
 - [Martina Löfqvist](https://www.linkedin.com/in/martinalofqvist/), currently at Destinus
 - [Axel Stjerngren](https://www.linkedin.com/in/axel-stjerngren/), currently at DeepMind
+- [Idris Zakariyya](https://www.gla.ac.uk/schools/computing/staff/idriszakariyya/), currently at University of Glasgow
 <!-- - [Isak Bosman](https://www.linkedin.com/in/isak-bosman/)-->
 
 <!-- ### Research Interns -->

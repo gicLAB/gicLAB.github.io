@@ -12,11 +12,7 @@ His research interests are in the broad areas of: Computer Architecture, Compute
 <img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@jcanore](https://twitter.com/jcanore)
 <br><br>
 
-### Post-doctoral Researchers
-**[Idris Zakariyya](https://www.gla.ac.uk/schools/computing/staff/idriszakariyya/)** <br>  <img src="/assets/img/people/idris.png" width="100px" style="float: left; margin-right: 20px;">
-Works on optimisation and adversarial robustness of AI models, aiming for a co-optimisation strategy balancing security, compression and performance of intelligent edge IoT devices.
-<img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@idris_zakariyya](https://twitter.com/idris_zakariyya)
-<br><br>
+<!-- ### Post-doctoral Researchers -->
 
 ### PhD Students
 
@@ -91,6 +87,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 ## Past Lab Members 
 
+- [Idris Zakariyya](https://www.gla.ac.uk/schools/computing/staff/idriszakariyya/), currently at University of Glasgow
 - [Ferheen Ayaz](https://ferheenayaz.github.io/), currently at University of Sussex
 - [Martina Löfqvist](https://www.linkedin.com/in/martinalofqvist/), currently at Destinus
 - [Axel Stjerngren](https://www.linkedin.com/in/axel-stjerngren/), currently at DeepMind

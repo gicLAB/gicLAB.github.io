@@ -85,11 +85,11 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 ## Past Lab Members 
 
-- [Ferheen Ayaz](https://ferheenayaz.github.io/), currently at University of Sussex
+- [Ferheen Ayaz](https://ferheenayaz.github.io/), currently postdoc at University of Sussex
 - [Peter Dodd](https://www.linkedin.com/in/pete-dodd-3b5001205/), currently at University of Glasgow
 - [Martina Löfqvist](https://www.linkedin.com/in/martinalofqvist/), currently at Destinus
 - [Axel Stjerngren](https://www.linkedin.com/in/axel-stjerngren/), currently at DeepMind
-- [Idris Zakariyya](https://www.gla.ac.uk/schools/computing/staff/idriszakariyya/), currently at University of Glasgow
+- [Idris Zakariyya](https://www.gla.ac.uk/schools/computing/staff/idriszakariyya/), currently postdoc at University of Glasgow
 <!-- - [Isak Bosman](https://www.linkedin.com/in/isak-bosman/)-->
 
 <!-- ### Research Interns -->

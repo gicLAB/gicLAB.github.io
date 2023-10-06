@@ -46,13 +46,13 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 ### MSc Students
 
-**[Hubert Dymarkowski](https://www.linkedin.com/in/hubert-dymarkowski-000880265/)** <br>  <img src="/assets/img/people/hubert.jpg" width="100px" style="float: left; margin-right: 20px;">
- Topic: "Design and implementation of FPGA accelerators for AI/ML applications"
+**[Vinamra Sharma](https://www.linkedin.com/in/vinamra-sharma/)** <br>  <img src="/assets/img/people/vinamra.jpeg" width="100px" style="float: left; margin-right: 20px;">
+ Topic: "On-device Learning"
  <br><br>
  <br><br>
 
-**[Vinamra Sharma](https://www.linkedin.com/in/vinamra-sharma/)** <br>  <img src="/assets/img/people/vinamra.jpeg" width="100px" style="float: left; margin-right: 20px;">
- Topic: "On-device Learning"
+**[Hubert Dymarkowski](https://www.linkedin.com/in/hubert-dymarkowski-000880265/)** <br>  <img src="/assets/img/people/hubert.jpg" width="100px" style="float: left; margin-right: 20px;">
+ Topic: "Design and implementation of FPGA accelerators for AI/ML applications"
  <br><br>
  <br><br>
 

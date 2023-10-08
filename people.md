@@ -68,6 +68,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
 - [Juan Gómez Luna](https://safari.ethz.ch/juan-gomez-luna/) - ETH Zürich, Switzerland
 - [David Kaeli](https://coe.northeastern.edu/people/kaeli-david/) - Northeastern University, USA
 - [Sye Loong Keoh](https://www.gla.ac.uk/schools/computing/staff/syeloongkeoh/) - University of Glasgow, UK
+- [Onur Mutlu](https://people.inf.ethz.ch/omutlu/) - ETH Zürich, Switzerland
 - [Michael O'Boyle](https://www.dcs.ed.ac.uk/home/mob/) - University of Edinburgh, UK
 - [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/) - University of Edinburgh, UK
 - [Enrique S Quintana-Ortí](http://www.disca.upv.es/enquior/) - Universitat Politècnica de València, Spain

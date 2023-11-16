@@ -12,34 +12,34 @@ His research interests are in the broad areas of: Computer Architecture, Compute
 <img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@jcanore](https://twitter.com/jcanore)
 <br><br>
 
-<!-- ### Post-doctoral Researchers -->
-
-### PhD Students
+### Post-doctoral Researchers
 
 **[Perry Gibson](https://gibsonic.org)** <br>  <img src="/assets/img/people/pg_profile.jpg" width="100px" style="float: left; margin-right: 20px;">
- Topic: "Compiler-centric across-stack deep learning inference acceleration" 
+ Topic: "Compiler-centric across-stack deep learning inference acceleration"
 <img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@PerryGibson_](https://twitter.com/PerryGibson_)
 <br><br>
 <br>
 
+### PhD Students
+
 **[Jude Haris](https://www.linkedin.com/in/jude-haris-a01060243/)** <br>  <img src="/assets/img/people/square_jude.jpg" width="100px" style="float: left; margin-right: 20px;">
-Topic: "Designing and Generating Efficient FPGA-Based Accelerators for Deep Neural Networks" 
+Topic: "Designing and Generating Efficient FPGA-Based Accelerators for Deep Neural Networks"
 <img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@memjude](https://twitter.com/memjude)
 <br><br>
 <br>
 
 **[Nick Louloudakis](https://luludak.github.io/)** (co-supervised with [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/) at Univeristy of Edinburgh) <br>  <img src="/assets/img/people/nickl.jpg" width="100px" style="float: left; margin-right: 20px;">
-Topic: "Testing Perception AI on Hardware Accelerators" 
+Topic: "Testing Perception AI on Hardware Accelerators"
 <br><br>
 <br><br>
 
 **[Wenhao Hu](https://www.linkedin.com/in/%E6%96%87%E8%B1%AA-%E8%83%A1-3500a3111/)** <br>  <img src="/assets/img/people/wenhao.png" width="100px" style="float: left; margin-right: 20px;">
-Topic: "Exploring Novel Pruning Techniques for Deep Neural Networks" 
+Topic: "Exploring Novel Pruning Techniques for Deep Neural Networks"
 <br><br>
 <br><br>
 
 **[Rappy Saha](https://rappysaha.github.io/)** <br>  <img src="/assets/img/people/rappy.jpg" width="100px" style="float: left; margin-right: 20px;">
-Topic: "'Efficient ML model implementation in FPGAs" 
+Topic: "'Efficient ML model implementation in FPGAs"
 <br><br>
 <br><br>
 
@@ -58,7 +58,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 <!-- ### MSc Students -->
 
- 
+
 ## Academic Collaborators
 
 - [José L. Abellán](https://sites.google.com/view/jlabellan) - University of Murcia, Spain
@@ -84,7 +84,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 <!-- ## Visiting Researchers-->
 
-## Past Lab Members 
+## Past Lab Members
 
 - [Ferheen Ayaz](https://ferheenayaz.github.io/), currently postdoc at University of Sussex
 - [Peter Dodd](https://www.linkedin.com/in/pete-dodd-3b5001205/), currently at University of Glasgow
@@ -96,4 +96,3 @@ Topic: "'Efficient ML model implementation in FPGAs"
 <!-- ### Research Interns -->
 <!-- - Some Guy -->
 <!-- - Someone else (now @ company) -->
-

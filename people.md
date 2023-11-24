@@ -65,7 +65,6 @@ Topic: "'Efficient ML model implementation in FPGAs"
 - [Elliot J. Crowley](https://elliotjcrowley.github.io/) - University of Edinburgh, UK
 - [Manuel F. Dolz](https://sites.google.com/uji.es/manuel-f-dolz) - Universitat Jaume I, Spain
 - [José Duato](http://www.gap.upv.es/index.php/members/1-jose-duato) - Universitat Politècnica de València, Spain
-- [Juan Gómez Luna](https://safari.ethz.ch/juan-gomez-luna/) - ETH Zürich, Switzerland
 - [David Kaeli](https://coe.northeastern.edu/people/kaeli-david/) - Northeastern University, USA
 - [Sye Loong Keoh](https://www.gla.ac.uk/schools/computing/staff/syeloongkeoh/) - University of Glasgow, UK
 - [Onur Mutlu](https://people.inf.ethz.ch/omutlu/) - ETH Zürich, Switzerland
@@ -79,6 +78,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 ## Industry Collaborators
 - [Ian Colbert](https://www.linkedin.com/in/ian-colbert/) - AMD
+- [Juan Gómez Luna](https://safari.ethz.ch/juan-gomez-luna/) - NVIDIA
 - [Mounia Kharbouche-Harrari](https://www.linkedin.com/in/mounia-kharbouche-harrari-6612b810a/) - STMicroelectronics
 - [Danilo Pau](https://www.linkedin.com/in/danilopietropau/) - STMicroelectronics
 

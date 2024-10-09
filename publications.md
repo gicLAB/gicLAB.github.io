@@ -4,15 +4,34 @@ title: Publications
 subtitle:
 ---
 
+# 2024
+
+- R. Saha, J. Haris, J. Cano
+    *'Accelerating PoT Quantization on Edge Devices'*, to appear in 31st IEEE International Conference on Electronics Circuits and Systems ([**ICECS**](https://ieee-icecs2024.org/)). [[Paper]](https://eprints.gla.ac.uk/331500/)
+
+- V. Sharma, D. Pau and J. Cano 
+    *'Efficient Tiny Machine Learning for Human Activity Recognition on Low-Power Edge Devices'*, to appear in IEEE Research and Technologies for Society and Industry ([**RTSI**](https://2024.ieee-rtsi.org/)). [[Paper]](https://eprints.gla.ac.uk/330318/)
+
+- N. Bohm Agostini, J. Haris, P. Gibson, M. Jawaweera, N. Rubin, Antonio Tumeo, J. L. Abellán, J. Cano, D. Kaeli
+    *'AXI4MLIR: User-Driven Automatic Host Code Generation for Custom AXI-Based Accelerators'*, in IEEE/ACM International Symposium on Code Generation and Optimization ([**CGO**](https://conf.researchr.org/home/cgo-2024)). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10444801) [[arXiv]](https://arxiv.org/abs/2312.14821)
+
+
+    
+
 # 2023
 
+- P. Gibson
+    *'Compiler-centric Across-stack Deep Learning Acceleration'*, Ph.D. Thesis, University of Glasgow. [[Thesis](https://theses.gla.ac.uk/83959/)]
+
 - N. Louloudakis, P. Gibson, J. Cano, and A. Rajan
-    *'DeltaNN: Assessing the Impact of Computational Environment Parameters on the Performance of Image Recognition Models'*, to appear in IEEE International Conference on Software Maintenance and Evolution ([**ICSME**](https://conf.researchr.org/home/icsme-2023))
+    *'DeltaNN: Assessing the Impact of Computational Environment Parameters on the Performance of Image Recognition Models'*, to appear in IEEE International Conference on Software Maintenance and Evolution ([**ICSME**](https://conf.researchr.org/home/icsme-2023)). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10336258) [[arXiv]](https://arxiv.org/abs/2306.06208)
+
 
 - W. Hu, P. Gibson, and J. Cano, *‘ICE-Pick: Iterative Cost-Efficient Pruning for DNNs’*, in 40th International Conference on Machine Learning ([**ICML**](https://icml.cc/)) ([Neural Compression Workshop (**NCW**)](https://neuralcompression.github.io/workshop23)). [[Paper]](https://openreview.net/forum?id=fWYKVtf7lu)
 
 - N. Louloudakis, P. Gibson, J. Cano, and A. Rajan
-    *'Fault Localization for Buggy Deep Learning Framework Conversions in Image Recognition'*, to appear in IEEE/ACM International Conference on Automated Software Engineering ([**ASE**](https://conf.researchr.org/home/ase-2023))
+    *'Fault Localization for Buggy Deep Learning Framework Conversions in Image Recognition'*, to appear in IEEE/ACM International Conference on Automated Software Engineering ([**ASE**]. (https://conf.researchr.org/home/ase-2023)).[[Paper]](https://ieeexplore.ieee.org/abstract/document/10298525) [[arXiv]](https://arxiv.org/abs/2306.06157)
+
 
 
 - F. Ayaz, I. Zakariyya, J. Cano, S. L. Keoh, J. Singer, D. Pau, M. Kharbouche-Harrari, 'Improving Robustness Against Adversarial Attacks with Deeply Quantized Neural Networks', in International Joint Conference on Neural Networks (IJCNN), Gold Coast, Australia, June 2023. [[Pre-print]](https://arxiv.org/abs/2304.12829)

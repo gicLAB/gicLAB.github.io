@@ -43,6 +43,11 @@ Topic: "'Efficient ML model implementation in FPGAs"
 <br><br>
 <br><br>
 
+**[Hubert Dymarkowski](https://www.linkedin.com/in/hubert-dymarkowski-000880265/)** <br>  <img src="/assets/img/people/hubert.jpeg" width="100px" style="float: left; margin-right: 20px;">
+ Topic: "Design and implementation of FPGA accelerators for AI/ML applications"
+ <br><br>
+ <br><br>
+
 
 ### MSc Students
 
@@ -51,10 +56,16 @@ Topic: "'Efficient ML model implementation in FPGAs"
  <br><br>
  <br><br>
 
-**[Hubert Dymarkowski](https://www.linkedin.com/in/hubert-dymarkowski-000880265/)** <br>  <img src="/assets/img/people/hubert.jpg" width="100px" style="float: left; margin-right: 20px;">
- Topic: "Design and implementation of FPGA accelerators for AI/ML applications"
+ **[Lara D'Agata](https://www.linkedin.com/in/lara-d-agata-616992283)** <br>  <img src="/assets/img/people/lara.jpg" width="100px" style="float: left; margin-right: 20px;">
+ Topic: "Improving Algorithmic Complexity of Operations in the CKKS Scheme for Fully Homomorphic Encryption"
  <br><br>
  <br><br>
+
+ **[Mariusz Szczepaniak](https://github.com/Mazza02)** <br>  <img src="/assets/img/people/mariusz.png" width="100px" style="float: left; margin-right: 20px;">
+ Topic: "Exploiting Sparsity to Improve Implementation of FPGA-based Accelerators"
+ <br><br>
+ <br><br>
+
 
 <!-- ### MSc Students -->
 

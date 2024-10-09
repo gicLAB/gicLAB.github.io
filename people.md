@@ -14,19 +14,13 @@ His research interests are in the broad areas of: Computer Architecture, Compute
 
 ### Post-doctoral Researchers
 
-**[Perry Gibson](https://gibsonic.org)** <br>  <img src="/assets/img/people/pg_profile.jpg" width="100px" style="float: left; margin-right: 20px;">
- Topic: "Compiler-centric across-stack deep learning inference acceleration"
-<img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@PerryGibson_](https://twitter.com/PerryGibson_)
-<br><br>
-<br>
-
-### PhD Students
-
 **[Jude Haris](https://www.linkedin.com/in/jude-haris-a01060243/)** <br>  <img src="/assets/img/people/square_jude.jpg" width="100px" style="float: left; margin-right: 20px;">
 Topic: "Designing and Generating Efficient FPGA-Based Accelerators for Deep Neural Networks"
 <img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@memjude](https://twitter.com/memjude)
 <br><br>
 <br>
+
+### PhD Students
 
 **[Nick Louloudakis](https://luludak.github.io/)** (co-supervised with [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/) at Univeristy of Edinburgh) <br>  <img src="/assets/img/people/nickl.jpg" width="100px" style="float: left; margin-right: 20px;">
 Topic: "Testing Perception AI on Hardware Accelerators"
@@ -50,11 +44,6 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 
 ### MSc Students
-
-**[Vinamra Sharma](https://www.linkedin.com/in/vinamra-sharma/)** <br>  <img src="/assets/img/people/vinamra.jpeg" width="100px" style="float: left; margin-right: 20px;">
- Topic: "On-device Learning"
- <br><br>
- <br><br>
 
  **[Lara D'Agata](https://www.linkedin.com/in/lara-d-agata-616992283)** <br>  <img src="/assets/img/people/lara.jpg" width="100px" style="float: left; margin-right: 20px;">
  Topic: "Improving Algorithmic Complexity of Operations in the CKKS Scheme for Fully Homomorphic Encryption"
@@ -97,9 +86,11 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 ## Past Lab Members
 
+- [Perry Gibson](https://gibsonic.org), currently at Fractile
+- [Vinamra Sharma](https://www.linkedin.com/in/vinamra-sharma/), currently at Amped
 - [Ferheen Ayaz](https://ferheenayaz.github.io/), currently postdoc at University of Sussex
 - [Peter Dodd](https://www.linkedin.com/in/pete-dodd-3b5001205/), currently at University of Glasgow
-- [Martina Löfqvist](https://www.linkedin.com/in/martinalofqvist/), currently at Destinus
+- [Martina Löfqvist](https://www.linkedin.com/in/martinalofqvist/), currently at Picterra
 - [Axel Stjerngren](https://www.linkedin.com/in/axel-stjerngren/), currently at DeepMind
 - [Idris Zakariyya](https://www.gla.ac.uk/schools/computing/staff/idriszakariyya/), currently postdoc at University of Glasgow
 <!-- - [Isak Bosman](https://www.linkedin.com/in/isak-bosman/)-->

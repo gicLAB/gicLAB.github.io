@@ -10,10 +10,10 @@ subtitle:
     *'DLAS: A Conceptual Model for Across-Stack Deep Learning Acceleration'*, to appear in ACM Transaction on Architecture and Code Optimization (**TACO**). [[Paper]](https://dl.acm.org/doi/10.1145/3688609)
 
 - J. Haris, R. Saha, W. Hu, J. Cano
-    *'Designing Efficient LLM Accelerators for Edge Devices'*, in Workshop on New Approaches for Addressing the Computing Requirements of LLMs and GNSs (**ARC-LG**). [[Paper]](https://arxiv.org/abs/2408.00462)
+    *'Designing Efficient LLM Accelerators for Edge Devices'*, in Workshop on New Approaches for Addressing the Computing Requirements of LLMs and GNSs (**ARC-LG**), co-located with **ISCA**, Buenos Aires, Argentina. [[Paper]](https://arxiv.org/abs/2408.00462)
 
 - J. Haris, N. Bohm Agostini, A. Tumeo, D. Kaeli, J. Cano
-    *'Data Transfer Optimizations for Host-CPU and Accelerators in AXI4MLIR'*, in 5th Compilers for Machine Learning Workshop (**C4ML**). [[Paper]](https://arxiv.org/abs/2402.19184)
+    *'Data Transfer Optimizations for Host-CPU and Accelerators in AXI4MLIR'*, in 5th Compilers for Machine Learning Workshop (**C4ML**), co-located with **CGO**, Edinburgh, UK. [[Paper]](https://arxiv.org/abs/2402.19184)
 
 - R. Saha, J. Haris, J. Cano
     *'Accelerating PoT Quantization on Edge Devices'*, to appear in 31st IEEE International Conference on Electronics Circuits and Systems (**ICECS**). [[Paper]](https://eprints.gla.ac.uk/331500/)
@@ -36,7 +36,7 @@ subtitle:
     *'DeltaNN: Assessing the Impact of Computational Environment Parameters on the Performance of Image Recognition Models'*, to appear in IEEE International Conference on Software Maintenance and Evolution (**ICSME**). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10336258) [[arXiv]](https://arxiv.org/abs/2306.06208)
 
 
-- W. Hu, P. Gibson, and J. Cano, *‘ICE-Pick: Iterative Cost-Efficient Pruning for DNNs’*, in 40th International Conference on Machine Learning (**ICML**) (Neural Compression Workshop (**NCW**)). [[Paper]](https://openreview.net/forum?id=fWYKVtf7lu)
+- W. Hu, P. Gibson, and J. Cano, *‘ICE-Pick: Iterative Cost-Efficient Pruning for DNNs’*, in Neural Compression Workshop (**NCW**), co-located with **ICML**, Honolulu, Hawaii, USA. [[Paper]](https://openreview.net/forum?id=fWYKVtf7lu)
 
 - N. Louloudakis, P. Gibson, J. Cano, and A. Rajan
     *'Fault Localization for Buggy Deep Learning Framework Conversions in Image Recognition'*, to appear in IEEE/ACM International Conference on Automated Software Engineering (**ASE**). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10298525) [[arXiv]](https://arxiv.org/abs/2306.06157)

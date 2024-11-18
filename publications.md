@@ -6,6 +6,9 @@ subtitle:
 
 # 2024
 
+- W. Hu, P. Henderson, J. Cano
+    *'DQA: An Efficient Method for Deep Quantization of Deep Neural Network Activations.'*, to appear in Machine Learning with new Compute Paradigms Workshop (**MLNCP**) co-located with NeurIPS, Vancouver, Canada. [[Paper]](https://openreview.net/forum?id=esMnmm2VJh)
+
 - P. Gibson, J. Cano, E. J. Crowley, A. Storkey, M. O'Boyle
     *'DLAS: A Conceptual Model for Across-Stack Deep Learning Acceleration'*, to appear in ACM Transaction on Architecture and Code Optimization (**TACO**). [[Paper]](https://dl.acm.org/doi/10.1145/3688609)
 

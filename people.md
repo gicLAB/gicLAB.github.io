@@ -47,6 +47,9 @@ Topic: "'Efficient ML model implementation in FPGAs"
  <br><br>
  <br><br>
 
+<br><br>
+<br><br>
+
 
 ### MSc Students
 

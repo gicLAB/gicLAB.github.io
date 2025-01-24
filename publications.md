@@ -15,7 +15,7 @@ subtitle:
     *'DQA: An Efficient Method for Deep Quantization of Deep Neural Network Activations.'*, Machine Learning with new Compute Paradigms Workshop (**MLNCP**) co-located with **NeurIPS**, Vancouver, Canada, December 2024. [[Paper]](https://openreview.net/forum?id=esMnmm2VJh)
 
 - P. Gibson, J. Cano, E. J. Crowley, A. Storkey, M. O'Boyle
-    *'DLAS: A Conceptual Model for Across-Stack Deep Learning Acceleration'*, ACM Transaction on Architecture and Code Optimization (**TACO**), 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3688609)
+    *'DLAS: A Conceptual Model for Across-Stack Deep Learning Acceleration'*, ACM Transaction on Architecture and Code Optimization (**TACO**), September 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3688609)
 
 - R. Saha, J. Haris, J. Cano
     *'Accelerating PoT Quantization on Edge Devices'*, to appear in 31st IEEE International Conference on Electronics Circuits and Systems (**ICECS**), Nancy, France, November 2024. [[Paper]](https://eprints.gla.ac.uk/331500/)

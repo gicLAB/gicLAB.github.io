@@ -42,7 +42,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
  <br><br>
  <br><br>
 
- **[Xingjian Fu]** <br>  <img src="/assets/img/people/ricky.jpg" width="100px" style="float: left; margin-right: 20px;">
+ **Xingjian Fu** <br>  <img src="/assets/img/people/ricky.jpg" width="100px" style="float: left; margin-right: 20px;">
  Topic: "Vision Transformer Algorithm Acceleration based on FPGA"
  <br><br>
  <br><br>

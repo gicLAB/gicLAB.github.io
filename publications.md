@@ -6,29 +6,30 @@ subtitle:
 
 # 2024
 
+- V. Sharma, D. Pau, J. Cano
+    *'Biases in Edge Language Models: Detection, Analysis, and Mitigation'*, to appear in EDGE AI Research Symposium 2025 (EDGEAI), Austin, Texas, February 2024.
+
 - W. Hu, P. Henderson, J. Cano
-    *'DQA: An Efficient Method for Deep Quantization of Deep Neural Network Activations.'*, to appear in Machine Learning with new Compute Paradigms Workshop (**MLNCP**) co-located with **NeurIPS**, Vancouver, Canada. [[Paper]](https://openreview.net/forum?id=esMnmm2VJh)
+    *'DQA: An Efficient Method for Deep Quantization of Deep Neural Network Activations.'*, Machine Learning with new Compute Paradigms Workshop (**MLNCP**) co-located with **NeurIPS**, Vancouver, Canada, December 2024. [[Paper]](https://openreview.net/forum?id=esMnmm2VJh)
 
 - P. Gibson, J. Cano, E. J. Crowley, A. Storkey, M. O'Boyle
-    *'DLAS: A Conceptual Model for Across-Stack Deep Learning Acceleration'*, to appear in ACM Transaction on Architecture and Code Optimization (**TACO**). [[Paper]](https://dl.acm.org/doi/10.1145/3688609)
-
-- J. Haris, R. Saha, W. Hu, J. Cano
-    *'Designing Efficient LLM Accelerators for Edge Devices'*, in Workshop on New Approaches for Addressing the Computing Requirements of LLMs and GNSs (**ARC-LG**), co-located with **ISCA**, Buenos Aires, Argentina. [[Paper]](https://arxiv.org/abs/2408.00462)
-
-- J. Haris, N. Bohm Agostini, A. Tumeo, D. Kaeli, J. Cano
-    *'Data Transfer Optimizations for Host-CPU and Accelerators in AXI4MLIR'*, in 5th Compilers for Machine Learning Workshop (**C4ML**), co-located with **CGO**, Edinburgh, UK. [[Paper]](https://arxiv.org/abs/2402.19184)
+    *'DLAS: A Conceptual Model for Across-Stack Deep Learning Acceleration'*, ACM Transaction on Architecture and Code Optimization (**TACO**), 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3688609)
 
 - R. Saha, J. Haris, J. Cano
-    *'Accelerating PoT Quantization on Edge Devices'*, to appear in 31st IEEE International Conference on Electronics Circuits and Systems (**ICECS**). [[Paper]](https://eprints.gla.ac.uk/331500/)
+    *'Accelerating PoT Quantization on Edge Devices'*, to appear in 31st IEEE International Conference on Electronics Circuits and Systems (**ICECS**), Nancy, France, November 2024. [[Paper]](https://eprints.gla.ac.uk/331500/)
 
 - V. Sharma, D. Pau and J. Cano 
-    *'Efficient Tiny Machine Learning for Human Activity Recognition on Low-Power Edge Devices'*, to appear in IEEE Research and Technologies for Society and Industry (**RTSI**). [[Paper]](https://eprints.gla.ac.uk/330318/)
+    *'Efficient Tiny Machine Learning for Human Activity Recognition on Low-Power Edge Devices'*, to appear in IEEE Research and Technologies for Society and Industry (**RTSI**), Lecco, Italy, September 2024. [[Paper]](https://eprints.gla.ac.uk/330318/)
+
+- J. Haris, R. Saha, W. Hu, J. Cano
+    *'Designing Efficient LLM Accelerators for Edge Devices'*, in Workshop on New Approaches for Addressing the Computing Requirements of LLMs and GNSs (**ARC-LG**), co-located with **ISCA**, Buenos Aires, Argentina, June 2024. [[Paper]](https://arxiv.org/abs/2408.00462)
+
 
 - N. Bohm Agostini, J. Haris, P. Gibson, M. Jawaweera, N. Rubin, Antonio Tumeo, J. L. Abellán, J. Cano, D. Kaeli
-    *'AXI4MLIR: User-Driven Automatic Host Code Generation for Custom AXI-Based Accelerators'*, in IEEE/ACM International Symposium on Code Generation and Optimization (**CGO**). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10444801) [[arXiv]](https://arxiv.org/abs/2312.14821)
+    *'AXI4MLIR: User-Driven Automatic Host Code Generation for Custom AXI-Based Accelerators'*, in IEEE/ACM International Symposium on Code Generation and Optimization (**CGO**), Edinburgh, UK, March 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10444801) [[arXiv]](https://arxiv.org/abs/2312.14821)
 
-
-    
+- J. Haris, N. Bohm Agostini, A. Tumeo, D. Kaeli, J. Cano
+    *'Data Transfer Optimizations for Host-CPU and Accelerators in AXI4MLIR'*, in 5th Compilers for Machine Learning Workshop (**C4ML**), co-located with **CGO**, Edinburgh, UK, March 2024. [[Paper]](https://arxiv.org/abs/2402.19184)
 
 # 2023
 
@@ -36,15 +37,12 @@ subtitle:
     *'Compiler-centric Across-stack Deep Learning Acceleration'*, Ph.D. Thesis, University of Glasgow. [[Thesis](https://theses.gla.ac.uk/83959/)]
 
 - N. Louloudakis, P. Gibson, J. Cano, and A. Rajan
-    *'DeltaNN: Assessing the Impact of Computational Environment Parameters on the Performance of Image Recognition Models'*, to appear in IEEE International Conference on Software Maintenance and Evolution (**ICSME**). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10336258) [[arXiv]](https://arxiv.org/abs/2306.06208)
-
-
-- W. Hu, P. Gibson, and J. Cano, *‘ICE-Pick: Iterative Cost-Efficient Pruning for DNNs’*, in Neural Compression Workshop (**NCW**), co-located with **ICML**, Honolulu, Hawaii, USA. [[Paper]](https://openreview.net/forum?id=fWYKVtf7lu)
+    *'DeltaNN: Assessing the Impact of Computational Environment Parameters on the Performance of Image Recognition Models'*, to appear in IEEE International Conference on Software Maintenance and Evolution (**ICSME**), Track, Bogtá, Colombia, October 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10336258) [[arXiv]](https://arxiv.org/abs/2306.06208)
 
 - N. Louloudakis, P. Gibson, J. Cano, and A. Rajan
-    *'Fault Localization for Buggy Deep Learning Framework Conversions in Image Recognition'*, to appear in IEEE/ACM International Conference on Automated Software Engineering (**ASE**). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10298525) [[arXiv]](https://arxiv.org/abs/2306.06157)
+    *'Fault Localization for Buggy Deep Learning Framework Conversions in Image Recognition'*, to appear in IEEE/ACM International Conference on Automated Software Engineering (**ASE**), September 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10298525) [[arXiv]](https://arxiv.org/abs/2306.06157)
 
-
+- W. Hu, P. Gibson, and J. Cano, *‘ICE-Pick: Iterative Cost-Efficient Pruning for DNNs’*, in Neural Compression Workshop (**NCW**), co-located with **ICML**, Honolulu, Hawaii, USA, July 2023. [[Paper]](https://openreview.net/forum?id=fWYKVtf7lu)
 
 - F. Ayaz, I. Zakariyya, J. Cano, S. L. Keoh, J. Singer, D. Pau, M. Kharbouche-Harrari, 'Improving Robustness Against Adversarial Attacks with Deeply Quantized Neural Networks', in International Joint Conference on Neural Networks (**IJCNN**), Gold Coast, Australia, June 2023. [[Pre-print]](https://arxiv.org/abs/2304.12829)
 
@@ -56,9 +54,9 @@ subtitle:
 
 - P. Gibson, J. Cano,  *'Transfer-Tuning: Reusing Auto-Schedules for Efficient Tensor Program Code Generation'*, in 31st International Conference on Parallel Architectures and Compilation Techniques (**PACT**), Chicago, USA, October 2022. [[Paper]](https://dl.acm.org/doi/10.1145/3559009.3569682) [[arXiv]](https://arxiv.org/abs/2201.05587) [[Code artifact]](https://github.com/gicLAB/transfer-tuning)
 
-- A. Stjerngren, P. Gibson, J. Cano, *‘Bifrost: End-to-End Evaluation and Optimization of Reconfigurable DNN Accelerators’*, in IEEE International Symposium on Performance Analysis of Systems and Software (**ISPASS**), Singapore, May 2022. [[Paper]](https://ieeexplore.ieee.org/document/9804659/) [[arXiv]](https://arxiv.org/abs/2204.12418) [[Code]](https://github.com/gicLAB/bifrost)
-
 - P. Gibson, J. Cano, *'Productive Reproducible Workflows for DNNs: A Case Study for Industrial Defect Detection'*, in 4th Workshop on Accelerated Machine Learning (**AccML**) co-located with HiPEAC, Budapest, Hungary, June 2022. [[Paper]](https://accml.dcs.gla.ac.uk/papers/2022/4thAccML_paper_2(16).pdf)
+
+- A. Stjerngren, P. Gibson, J. Cano, *‘Bifrost: End-to-End Evaluation and Optimization of Reconfigurable DNN Accelerators’*, in IEEE International Symposium on Performance Analysis of Systems and Software (**ISPASS**), Singapore, May 2022. [[Paper]](https://ieeexplore.ieee.org/document/9804659/) [[arXiv]](https://arxiv.org/abs/2204.12418) [[Code]](https://github.com/gicLAB/bifrost)
 
 
 # 2021

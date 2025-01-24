@@ -4,10 +4,12 @@ title: Publications
 subtitle:
 ---
 
-# 2024
+# 2025
 
 - V. Sharma, D. Pau, J. Cano
-    *'Biases in Edge Language Models: Detection, Analysis, and Mitigation'*, to appear in EDGE AI Research Symposium 2025 (EDGEAI), Austin, Texas, February 2024.
+    *'Biases in Edge Language Models: Detection, Analysis, and Mitigation'*, to appear in EDGE AI Research Symposium 2025 (EDGEAI), Austin, Texas, February 2025.
+
+# 2024
 
 - W. Hu, P. Henderson, J. Cano
     *'DQA: An Efficient Method for Deep Quantization of Deep Neural Network Activations.'*, Machine Learning with new Compute Paradigms Workshop (**MLNCP**) co-located with **NeurIPS**, Vancouver, Canada, December 2024. [[Paper]](https://openreview.net/forum?id=esMnmm2VJh)

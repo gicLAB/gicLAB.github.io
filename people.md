@@ -8,7 +8,7 @@ subtitle:
 
 ### Principal Investigator
 **[Dr José Cano](http://www.dcs.gla.ac.uk/~josecr/) — _Senior Lecturer (Associate Professor)_** <br> <img src="/assets/img/people/jose_small_new.png" width="100px" style="float: left; margin-right: 20px;">
-His research interests are in the broad areas of: Computer Architecture, Computer Systems, Compilers, Interconnection Networks, Machine Learning, and Security.
+His research interests are in the areas of: Computer Architecture, Computer Systems, Compilers,Machine Learning, and Security.
 <img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@jcanore](https://twitter.com/jcanore)
 <br><br>
 
@@ -90,15 +90,15 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 <!-- ## Visiting Researchers-->
 
+## Past Lab Members
+- [Idris Zakariyya](https://www.gla.ac.uk/schools/computing/staff/idriszakariyya/), currently postdoc at University of Glasgow
+- [Ferheen Ayaz](https://ferheenayaz.github.io/), currently Lecturer at City, University of London
+
 ## Alumni
 - [Perry Gibson](https://gibsonic.org) (PhD, 2023), currently at Fractile
 - [Vinamra Sharma](https://www.linkedin.com/in/vinamra-sharma/) (MSc, 2023), currently at Amped
 - [Axel Stjerngren](https://www.linkedin.com/in/axel-stjerngren/) (UG, 2021), currently at DeepMind
 - [Martina Löfqvist](https://www.linkedin.com/in/martinalofqvist/) (UG, 2020), currently at Picterra
-
-## Past Lab Members
-- [Idris Zakariyya](https://www.gla.ac.uk/schools/computing/staff/idriszakariyya/), currently postdoc at University of Glasgow
-- [Ferheen Ayaz](https://ferheenayaz.github.io/), currently postdoc at University of Sussex
 
 <!-- ### Research Interns -->
 <!-- - Some Guy -->

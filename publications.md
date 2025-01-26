@@ -7,7 +7,7 @@ subtitle:
 # 2025
 
 - V. Sharma, D. Pau, J. Cano
-    *'Biases in Edge Language Models: Detection, Analysis, and Mitigation'*, to appear in EDGE AI Research Symposium 2025 (**EDGEAI**M), Austin, Texas, February 2025.
+    *'Biases in Edge Language Models: Detection, Analysis, and Mitigation'*, to appear in EDGE AI Research Symposium 2025 (**EDGEAI**), Austin, Texas, February 2025.
 
 # 2024
 

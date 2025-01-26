@@ -70,7 +70,6 @@ Topic: "'Efficient ML model implementation in FPGAs"
 - [José L. Abellán](https://sites.google.com/view/jlabellan) - University of Murcia, Spain
 - [Elliot J. Crowley](https://elliotjcrowley.github.io/) - University of Edinburgh, UK
 - [Manuel F. Dolz](https://sites.google.com/uji.es/manuel-f-dolz) - Universitat Jaume I, Spain
-- [José Duato](http://www.gap.upv.es/index.php/members/1-jose-duato) - Universitat Politècnica de València, Spain
 - [David Kaeli](https://coe.northeastern.edu/people/kaeli-david/) - Northeastern University, USA
 - [Sye Loong Keoh](https://www.gla.ac.uk/schools/computing/staff/syeloongkeoh/) - University of Glasgow, UK
 - [Onur Mutlu](https://people.inf.ethz.ch/omutlu/) - ETH Zürich, Switzerland
@@ -84,22 +83,22 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 ## Industry Collaborators
 - [Ian Colbert](https://www.linkedin.com/in/ian-colbert/) - AMD
+- [José Duato](https://rac.es/sobre-nosotros/miembros/academicos/numerarios/965/) - Qsimov
 - [Juan Gómez Luna](https://safari.ethz.ch/juan-gomez-luna/) - NVIDIA
 - [Mounia Kharbouche-Harrari](https://www.linkedin.com/in/mounia-kharbouche-harrari-6612b810a/) - STMicroelectronics
 - [Danilo Pau](https://www.linkedin.com/in/danilopietropau/) - STMicroelectronics
 
 <!-- ## Visiting Researchers-->
 
-## Past Lab Members
+## Alumni
+- [Perry Gibson](https://gibsonic.org) (PhD, 2023), currently at Fractile
+- [Vinamra Sharma](https://www.linkedin.com/in/vinamra-sharma/) (MSc, 2023), currently at Amped
+- [Axel Stjerngren](https://www.linkedin.com/in/axel-stjerngren/) (UG, 2021), currently at DeepMind
+- [Martina Löfqvist](https://www.linkedin.com/in/martinalofqvist/) (UG, 2020), currently at Picterra
 
-- [Perry Gibson](https://gibsonic.org), currently at Fractile
-- [Vinamra Sharma](https://www.linkedin.com/in/vinamra-sharma/), currently at Amped
-- [Ferheen Ayaz](https://ferheenayaz.github.io/), currently postdoc at University of Sussex
-- [Peter Dodd](https://www.linkedin.com/in/pete-dodd-3b5001205/), currently at University of Glasgow
-- [Martina Löfqvist](https://www.linkedin.com/in/martinalofqvist/), currently at Picterra
-- [Axel Stjerngren](https://www.linkedin.com/in/axel-stjerngren/), currently at DeepMind
+## Past Lab Members
 - [Idris Zakariyya](https://www.gla.ac.uk/schools/computing/staff/idriszakariyya/), currently postdoc at University of Glasgow
-<!-- - [Isak Bosman](https://www.linkedin.com/in/isak-bosman/)-->
+- [Ferheen Ayaz](https://ferheenayaz.github.io/), currently postdoc at University of Sussex
 
 <!-- ### Research Interns -->
 <!-- - Some Guy -->

@@ -7,7 +7,7 @@ subtitle:
 # 2025
 
 - V. Sharma, D. Pau, J. Cano
-    *'Biases in Edge Language Models: Detection, Analysis, and Mitigation'*, to appear in EDGE AI Research Symposium 2025 (EDGEAI), Austin, Texas, February 2025.
+    *'Biases in Edge Language Models: Detection, Analysis, and Mitigation'*, to appear in EDGE AI Research Symposium 2025 (**MEDGEAI**M), Austin, Texas, February 2025.
 
 # 2024
 
@@ -17,15 +17,14 @@ subtitle:
 - R. Saha, J. Haris, J. Cano
     *'Accelerating PoT Quantization on Edge Devices'*, to appear in 31st IEEE International Conference on Electronics Circuits and Systems (**ICECS**), Nancy, France, November 2024. [[Paper]](https://eprints.gla.ac.uk/331500/)
 
-- P. Gibson, J. Cano, E. J. Crowley, A. Storkey, M. O'Boyle
-    *'DLAS: A Conceptual Model for Across-Stack Deep Learning Acceleration'*, ACM Transaction on Architecture and Code Optimization (**TACO**), September 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3688609)
-
 - V. Sharma, D. Pau and J. Cano 
     *'Efficient Tiny Machine Learning for Human Activity Recognition on Low-Power Edge Devices'*, to appear in IEEE Research and Technologies for Society and Industry (**RTSI**), Lecco, Italy, September 2024. [[Paper]](https://eprints.gla.ac.uk/330318/)
 
+- P. Gibson, J. Cano, E. J. Crowley, A. Storkey, M. O'Boyle
+    *'DLAS: A Conceptual Model for Across-Stack Deep Learning Acceleration'*, ACM Transaction on Architecture and Code Optimization (**TACO**), September 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3688609)
+
 - J. Haris, R. Saha, W. Hu, J. Cano
     *'Designing Efficient LLM Accelerators for Edge Devices'*, in Workshop on New Approaches for Addressing the Computing Requirements of LLMs and GNSs (**ARC-LG**), co-located with **ISCA**, Buenos Aires, Argentina, June 2024. [[Paper]](https://arxiv.org/abs/2408.00462)
-
 
 - N. Bohm Agostini, J. Haris, P. Gibson, M. Jawaweera, N. Rubin, Antonio Tumeo, J. L. Abellán, J. Cano, D. Kaeli
     *'AXI4MLIR: User-Driven Automatic Host Code Generation for Custom AXI-Based Accelerators'*, in IEEE/ACM International Symposium on Code Generation and Optimization (**CGO**), Edinburgh, UK, March 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10444801) [[arXiv]](https://arxiv.org/abs/2312.14821)

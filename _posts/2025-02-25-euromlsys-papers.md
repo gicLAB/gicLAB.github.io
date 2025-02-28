@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two Papers Accepted at EuroMLSys 2025!"
+title: "Two papers accepted at EuroMLSys 2025!"
 tags: [EuroMLSys, Publications]
 ---
 

@@ -6,13 +6,22 @@ subtitle:
 
 # 2025
 
+- N. Louloudakis, P. Gibson, J. Cano, A. Rajan
+    *'FetaFix: Automatic Fault Localization and Repair of Deep Learning Model Conversions'*, to appear in International Conference on Evaluation and Assessment in Software Engineering (EASE), Istanbul, Turkey, June 2025.
+
+- A. Ferguson, P. Gibson, L. D'Agata (University of Glasgow), P. McLeod, F. Yaman, A. Das, I. Colbert, J. Cano
+    *'Exploiting Unstructured Sparsity in Fully Homomorphic Encrypted DNNs'*, to appear in EuroMLSys 2025, co-located with EuroSys '25, Rotterdam, The Netherlands, March 2025.
+
+- J. Duato, J. I. Mestre, M. F. Dolz, E. S. Quintana-Orti, J. Cano
+    *'Decoupling Structural and Quantitative Knowledge in ReLU-based Deep Neural Networks'*, to appear in EuroMlSys 2025, co-located with EuroSys '25, Rotterdam, The Netherlands, March 2025.
+
 - V. Sharma, D. Pau, J. Cano
-    *'Biases in Edge Language Models: Detection, Analysis, and Mitigation'*, to appear in EDGE AI Research Symposium 2025 (**EDGEAI**), Austin, Texas, February 2025.
+    *'Biases in Edge Language Models: Detection, Analysis, and Mitigation'*, EDGE AI Research Symposium 2025 (**EDGEAI**), Austin, Texas, February 2025.
 
 # 2024
 
 - W. Hu, P. Henderson, J. Cano
-    *'DQA: An Efficient Method for Deep Quantization of Deep Neural Network Activations.'*, Machine Learning with new Compute Paradigms Workshop (**MLNCP**) co-located with **NeurIPS**, Vancouver, Canada, December 2024. [[Paper]](https://openreview.net/forum?id=esMnmm2VJh)
+    *'DQA: An Efficient Method for Deep Quantization of Deep Neural Network Activations.'*, Machine Learning with new Compute Paradigms Workshop (**MLNCP**), co-located with **NeurIPS**, Vancouver, Canada, December 2024. [[Paper]](https://openreview.net/forum?id=esMnmm2VJh)
 
 - R. Saha, J. Haris, J. Cano
     *'Accelerating PoT Quantization on Edge Devices'*, to appear in 31st IEEE International Conference on Electronics Circuits and Systems (**ICECS**), Nancy, France, November 2024. [[Paper]](https://eprints.gla.ac.uk/331500/)
@@ -51,11 +60,11 @@ subtitle:
 
 # 2022
 
-- N. Louloudakis, P. Gibson, J. Cano, A. Rajan, *'Assessing Robustness of Image Recognition Models to Changes in the Computational Environment'*,  in NeurIPS ML Safety Workshop (<b>MLSW</b>) co-located with NeurIPS, Hybrid Conference, November-December 2022. [[Pre-print]](https://www.dcs.gla.ac.uk/~josecr/pub/2022_MLSW.pdf)
+- N. Louloudakis, P. Gibson, J. Cano, A. Rajan, *'Assessing Robustness of Image Recognition Models to Changes in the Computational Environment'*,  in NeurIPS ML Safety Workshop (<b>MLSW</b>), co-located with NeurIPS, Hybrid Conference, November-December 2022. [[Pre-print]](https://www.dcs.gla.ac.uk/~josecr/pub/2022_MLSW.pdf)
 
 - P. Gibson, J. Cano,  *'Transfer-Tuning: Reusing Auto-Schedules for Efficient Tensor Program Code Generation'*, in 31st International Conference on Parallel Architectures and Compilation Techniques (**PACT**), Chicago, USA, October 2022. [[Paper]](https://dl.acm.org/doi/10.1145/3559009.3569682) [[arXiv]](https://arxiv.org/abs/2201.05587) [[Code artifact]](https://github.com/gicLAB/transfer-tuning)
 
-- P. Gibson, J. Cano, *'Productive Reproducible Workflows for DNNs: A Case Study for Industrial Defect Detection'*, in 4th Workshop on Accelerated Machine Learning (**AccML**) co-located with HiPEAC, Budapest, Hungary, June 2022. [[Paper]](https://accml.dcs.gla.ac.uk/papers/2022/4thAccML_paper_2(16).pdf)
+- P. Gibson, J. Cano, *'Productive Reproducible Workflows for DNNs: A Case Study for Industrial Defect Detection'*, in 4th Workshop on Accelerated Machine Learning (**AccML**), co-located with HiPEAC, Budapest, Hungary, June 2022. [[Paper]](https://accml.dcs.gla.ac.uk/papers/2022/4thAccML_paper_2(16).pdf)
 
 - A. Stjerngren, P. Gibson, J. Cano, *‘Bifrost: End-to-End Evaluation and Optimization of Reconfigurable DNN Accelerators’*, in IEEE International Symposium on Performance Analysis of Systems and Software (**ISPASS**), Singapore, May 2022. [[Paper]](https://ieeexplore.ieee.org/document/9804659/) [[arXiv]](https://arxiv.org/abs/2204.12418) [[Code]](https://github.com/gicLAB/bifrost)
 

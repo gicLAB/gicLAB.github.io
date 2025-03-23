@@ -7,9 +7,9 @@ subtitle:
 # 2025
 
 - N. Louloudakis, P. Gibson, J. Cano, A. Rajan
-    *'FetaFix: Automatic Fault Localization and Repair of Deep Learning Model Conversions'*, to appear in International Conference on Evaluation and Assessment in Software Engineering (EASE), Istanbul, Turkey, June 2025.
+    *'FetaFix: Automatic Fault Localization and Repair of Deep Learning Model Conversions'*, to appear in International Conference on Evaluation and Assessment in Software Engineering (**EASE**), Istanbul, Turkey, June 2025.
 
-- A. Ferguson, P. Gibson, L. D'Agata (University of Glasgow), P. McLeod, F. Yaman, A. Das, I. Colbert, J. Cano
+- A. Ferguson, P. Gibson, L. D'Agata, P. McLeod, F. Yaman, A. Das, I. Colbert, J. Cano
     *'Exploiting Unstructured Sparsity in Fully Homomorphic Encrypted DNNs'*, to appear in EuroMLSys 2025, co-located with EuroSys '25, Rotterdam, The Netherlands, March 2025.
 
 - J. Duato, J. I. Mestre, M. F. Dolz, E. S. Quintana-Orti, J. Cano

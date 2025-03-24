@@ -9,11 +9,14 @@ subtitle:
 - N. Louloudakis, P. Gibson, J. Cano, A. Rajan
     *'FetaFix: Automatic Fault Localization and Repair of Deep Learning Model Conversions'*, to appear in International Conference on Evaluation and Assessment in Software Engineering (**EASE**), Istanbul, Turkey, June 2025.
 
+- N. Louloudakis, P. Gibson, J. Cano, A. Rajan
+    *'Exploring Robustness of Image Recognition Models on Hardware Accelerators'*, to appear in Mutation Workshop (**Mutation**), co-located with **ICST**, Naples, Italy, March-April 2025.
+
 - A. Ferguson, P. Gibson, L. D'Agata, P. McLeod, F. Yaman, A. Das, I. Colbert, J. Cano
-    *'Exploiting Unstructured Sparsity in Fully Homomorphic Encrypted DNNs'*, to appear in EuroMLSys 2025, co-located with EuroSys '25, Rotterdam, The Netherlands, March 2025.
+    *'Exploiting Unstructured Sparsity in Fully Homomorphic Encrypted DNNs'*, to appear in **EuroMLSys** 2025, co-located with **EuroSys** '25, Rotterdam, The Netherlands, March 2025.
 
 - J. Duato, J. I. Mestre, M. F. Dolz, E. S. Quintana-Orti, J. Cano
-    *'Decoupling Structural and Quantitative Knowledge in ReLU-based Deep Neural Networks'*, to appear in EuroMlSys 2025, co-located with EuroSys '25, Rotterdam, The Netherlands, March 2025.
+    *'Decoupling Structural and Quantitative Knowledge in ReLU-based Deep Neural Networks'*, to appear in **EuroMLSys** 2025, co-located with **EuroSys** '25, Rotterdam, The Netherlands, March 2025.
 
 - V. Sharma, D. Pau, J. Cano
     *'Biases in Edge Language Models: Detection, Analysis, and Mitigation'*, EDGE AI Research Symposium 2025 (**EDGEAI**), Austin, Texas, February 2025.

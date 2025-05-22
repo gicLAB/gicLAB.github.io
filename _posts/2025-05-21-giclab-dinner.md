@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two papers accepted at EuroMLSys 2025!"
+title: "gicLAB End of Academic Year Celebration Dinner"
 tags: [Celebration, Event]
 ---
 gicLAB end of academic year celebration! 🙂

@@ -6,20 +6,42 @@ subtitle:
 
 # 2025
 
-- N. Louloudakis, P. Gibson, J. Cano, A. Rajan
-    *'FetaFix: Automatic Fault Localization and Repair of Deep Learning Model Conversions'*, to appear in International Conference on Evaluation and Assessment in Software Engineering (**EASE**), Istanbul, Turkey, June 2025.
+-  A. Fenollar, J. Cano, J. L. Abellán, M. Acacio
+    *'QuFi: Adaptive Tiled Gustavson Output Reuse for Edge Sparse DNN Accelerators'*, to appear in 43rd IEEE International Conference on Computer Design (ICCD), Dallas, USA, November 2025.
+
+- J. Haris, J. Cano
+    *'Accelerating Transposed Convolutions on FPGA-based Edge Devices'*, to appear in 35th International Conference on Field-Programmable Logic and Applications (**FPL**), Leiden, The Netherlands, September 2025. [[Paper]] (https://arxiv.org/abs/2507.07683)
+
+- W. Hu, P. Henderson, J. Cano
+    *'ICE-Pruning: An Iterative Cost-Efficient Pruning Pipeline for Deep Neural Networks'*, International Joint Conference on Neural Networks (**IJCNN**), Rome, Italy, July 2025. [[Paper]] (https://arxiv.org/abs/2505.07411)
 
 - N. Louloudakis, P. Gibson, J. Cano, A. Rajan
-    *'Exploring Robustness of Image Recognition Models on Hardware Accelerators'*, to appear in Mutation Workshop (**Mutation**), co-located with **ICST**, Naples, Italy, March-April 2025.
+    *'FetaFix: Automatic Fault Localization and Repair of Deep Learning Model Conversions'*, International Conference on Evaluation and Assessment in Software Engineering (**EASE**), Istanbul, Turkey, June 2025. [[Paper]] (https://arxiv.org/abs/2312.15101)
+
+- J. Haris, J. Cano
+    *'SECDA Design Suite: Efficient Hardware-Software Co-Design of DNN Accelerators'*, 4th Workshop on Open-Source Computer Architecture Research (**OSCAR**), co-located with **ISCA**, Tokyo, Japan, June 2025.
+
+- J. Haris, J. Cano
+    *'F-BFQ: Flexible Block Floating-Point Quantization Accelerator for LLMs'*, Workshop on New Approaches for Addressing the Computing Requirements of LLMs and GNSs (**LG-ARC**), co-located with **ISCA**, Tokyo, Japan, June 2025. 
+
+- N. Louloudakis, P. Gibson, J. Cano, A. Rajan
+    *'Exploring Robustness of Image Recognition Models on Hardware Accelerators'*, Mutation Workshop (**Mutation**), co-located with **ICST**, Naples, Italy, March-April 2025. [[Paper]] (https://arxiv.org/abs/2306.01697)
+
+- P. Gibson, J. Cano, E. J. Crowley, A. Storkey, M. O'Boyle
+    *'DLAS: A Conceptual Model for Across-Stack Deep Learning Acceleration'*, ACM Transaction on Architecture and Code Optimization (**TACO**), March 2025. [[Paper]](https://dl.acm.org/doi/10.1145/3688609)
+
+
+-  A. Ferguson, P. Gibson, L. D'Agata, P. McLeod, F. Yaman, A. Das, I. Colbert, J. Cano, A. Rajan
+    *'Exploiting Unstructured Sparsity in Fully Homomorphic Encrypted DNNs'*, 
 
 - A. Ferguson, P. Gibson, L. D'Agata, P. McLeod, F. Yaman, A. Das, I. Colbert, J. Cano
-    *'Exploiting Unstructured Sparsity in Fully Homomorphic Encrypted DNNs'*, to appear in **EuroMLSys** 2025, co-located with **EuroSys** '25, Rotterdam, The Netherlands, March 2025.
+    *'Exploiting Unstructured Sparsity in Fully Homomorphic Encrypted DNNs'*, **EuroMLSys** 2025, co-located with **EuroSys** '25, Rotterdam, The Netherlands, March 2025. [[Paper]] (https://dl.acm.org/doi/10.1145/3721146.3721948)
 
 - J. Duato, J. I. Mestre, M. F. Dolz, E. S. Quintana-Orti, J. Cano
-    *'Decoupling Structural and Quantitative Knowledge in ReLU-based Deep Neural Networks'*, to appear in **EuroMLSys** 2025, co-located with **EuroSys** '25, Rotterdam, The Netherlands, March 2025.
+    *'Decoupling Structural and Quantitative Knowledge in ReLU-based Deep Neural Networks'* **EuroMLSys** 2025, co-located with **EuroSys** '25, Rotterdam, The Netherlands, March 2025. [[Paper]] (https://dl.acm.org/doi/10.1145/3721146.3721950)
 
 - V. Sharma, D. Pau, J. Cano
-    *'Biases in Edge Language Models: Detection, Analysis, and Mitigation'*, EDGE AI Research Symposium 2025 (**EDGEAI**), Austin, Texas, February 2025.
+    *'Biases in Edge Language Models: Detection, Analysis, and Mitigation'*, EDGE AI Research Symposium 2025 (**EDGEAI**), Austin, Texas, February 2025. [[Paper]] (https://arxiv.org/abs/2502.11349)
 
 # 2024
 
@@ -31,9 +53,6 @@ subtitle:
 
 - V. Sharma, D. Pau and J. Cano 
     *'Efficient Tiny Machine Learning for Human Activity Recognition on Low-Power Edge Devices'*, to appear in IEEE Research and Technologies for Society and Industry (**RTSI**), Lecco, Italy, September 2024. [[Paper]](https://eprints.gla.ac.uk/330318/)
-
-- P. Gibson, J. Cano, E. J. Crowley, A. Storkey, M. O'Boyle
-    *'DLAS: A Conceptual Model for Across-Stack Deep Learning Acceleration'*, ACM Transaction on Architecture and Code Optimization (**TACO**), September 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3688609)
 
 - J. Haris, R. Saha, W. Hu, J. Cano
     *'Designing Efficient LLM Accelerators for Edge Devices'*, in Workshop on New Approaches for Addressing the Computing Requirements of LLMs and GNSs (**ARC-LG**), co-located with **ISCA**, Buenos Aires, Argentina, June 2024. [[Paper]](https://arxiv.org/abs/2408.00462)

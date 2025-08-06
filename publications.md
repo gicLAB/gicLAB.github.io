@@ -7,16 +7,16 @@ subtitle:
 # 2025
 
 -  A. Fenollar, J. Cano, J. L. Abellán, M. Acacio
-    *'QuFi: Adaptive Tiled Gustavson Output Reuse for Edge Sparse DNN Accelerators'*, to appear in 43rd IEEE International Conference on Computer Design (ICCD), Dallas, USA, November 2025.
+    *'QuFi: Adaptive Tiled Gustavson Output Reuse for Edge Sparse DNN Accelerators'*, to appear in 43rd IEEE International Conference on Computer Design (**ICCD**), Dallas, USA, November 2025.
 
 - J. Haris, J. Cano
-    *'Accelerating Transposed Convolutions on FPGA-based Edge Devices'*, to appear in 35th International Conference on Field-Programmable Logic and Applications (**FPL**), Leiden, The Netherlands, September 2025. [[Paper]] (https://arxiv.org/abs/2507.07683)
+    *'Accelerating Transposed Convolutions on FPGA-based Edge Devices'*, to appear in 35th International Conference on Field-Programmable Logic and Applications (**FPL**), Leiden, The Netherlands, September 2025. [[Paper]](https://arxiv.org/abs/2507.07683)
 
 - W. Hu, P. Henderson, J. Cano
-    *'ICE-Pruning: An Iterative Cost-Efficient Pruning Pipeline for Deep Neural Networks'*, International Joint Conference on Neural Networks (**IJCNN**), Rome, Italy, July 2025. [[Paper]] (https://arxiv.org/abs/2505.07411)
+    *'ICE-Pruning: An Iterative Cost-Efficient Pruning Pipeline for Deep Neural Networks'*, International Joint Conference on Neural Networks (**IJCNN**), Rome, Italy, July 2025. [[Paper]](https://arxiv.org/abs/2505.07411)
 
 - N. Louloudakis, P. Gibson, J. Cano, A. Rajan
-    *'FetaFix: Automatic Fault Localization and Repair of Deep Learning Model Conversions'*, International Conference on Evaluation and Assessment in Software Engineering (**EASE**), Istanbul, Turkey, June 2025. [[Paper]] (https://arxiv.org/abs/2312.15101)
+    *'FetaFix: Automatic Fault Localization and Repair of Deep Learning Model Conversions'*, International Conference on Evaluation and Assessment in Software Engineering (**EASE**), Istanbul, Turkey, June 2025. [[Paper]](https://arxiv.org/abs/2312.15101)
 
 - J. Haris, J. Cano
     *'SECDA Design Suite: Efficient Hardware-Software Co-Design of DNN Accelerators'*, 4th Workshop on Open-Source Computer Architecture Research (**OSCAR**), co-located with **ISCA**, Tokyo, Japan, June 2025.
@@ -38,10 +38,10 @@ subtitle:
     *'Exploiting Unstructured Sparsity in Fully Homomorphic Encrypted DNNs'*, **EuroMLSys** 2025, co-located with **EuroSys** '25, Rotterdam, The Netherlands, March 2025. [[Paper]] (https://dl.acm.org/doi/10.1145/3721146.3721948)
 
 - J. Duato, J. I. Mestre, M. F. Dolz, E. S. Quintana-Orti, J. Cano
-    *'Decoupling Structural and Quantitative Knowledge in ReLU-based Deep Neural Networks'* **EuroMLSys** 2025, co-located with **EuroSys** '25, Rotterdam, The Netherlands, March 2025. [[Paper]] (https://dl.acm.org/doi/10.1145/3721146.3721950)
+    *'Decoupling Structural and Quantitative Knowledge in ReLU-based Deep Neural Networks'* **EuroMLSys** 2025, co-located with **EuroSys** '25, Rotterdam, The Netherlands, March 2025. [[Paper]](https://dl.acm.org/doi/10.1145/3721146.3721950)
 
 - V. Sharma, D. Pau, J. Cano
-    *'Biases in Edge Language Models: Detection, Analysis, and Mitigation'*, EDGE AI Research Symposium 2025 (**EDGEAI**), Austin, Texas, February 2025. [[Paper]] (https://arxiv.org/abs/2502.11349)
+    *'Biases in Edge Language Models: Detection, Analysis, and Mitigation'*, EDGE AI Research Symposium 2025 (**EDGEAI**), Austin, Texas, February 2025. [[Paper]](https://arxiv.org/abs/2502.11349)
 
 # 2024
 

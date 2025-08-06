@@ -25,17 +25,14 @@ subtitle:
     *'F-BFQ: Flexible Block Floating-Point Quantization Accelerator for LLMs'*, Workshop on New Approaches for Addressing the Computing Requirements of LLMs and GNSs (**LG-ARC**), co-located with **ISCA**, Tokyo, Japan, June 2025. 
 
 - N. Louloudakis, P. Gibson, J. Cano, A. Rajan
-    *'Exploring Robustness of Image Recognition Models on Hardware Accelerators'*, Mutation Workshop (**Mutation**), co-located with **ICST**, Naples, Italy, March-April 2025. [[Paper]] (https://arxiv.org/abs/2306.01697)
+    *'Exploring Robustness of Image Recognition Models on Hardware Accelerators'*, Mutation Workshop (**Mutation**), co-located with **ICST**, Naples, Italy, March-April 2025. [[Paper]](https://arxiv.org/abs/2306.01697)
 
 - P. Gibson, J. Cano, E. J. Crowley, A. Storkey, M. O'Boyle
     *'DLAS: A Conceptual Model for Across-Stack Deep Learning Acceleration'*, ACM Transaction on Architecture and Code Optimization (**TACO**), March 2025. [[Paper]](https://dl.acm.org/doi/10.1145/3688609)
 
 
--  A. Ferguson, P. Gibson, L. D'Agata, P. McLeod, F. Yaman, A. Das, I. Colbert, J. Cano, A. Rajan
-    *'Exploiting Unstructured Sparsity in Fully Homomorphic Encrypted DNNs'*, 
-
 - A. Ferguson, P. Gibson, L. D'Agata, P. McLeod, F. Yaman, A. Das, I. Colbert, J. Cano
-    *'Exploiting Unstructured Sparsity in Fully Homomorphic Encrypted DNNs'*, **EuroMLSys** 2025, co-located with **EuroSys** '25, Rotterdam, The Netherlands, March 2025. [[Paper]] (https://dl.acm.org/doi/10.1145/3721146.3721948)
+    *'Exploiting Unstructured Sparsity in Fully Homomorphic Encrypted DNNs'*, **EuroMLSys** 2025, co-located with **EuroSys** '25, Rotterdam, The Netherlands, March 2025. [[Paper]](https://dl.acm.org/doi/10.1145/3721146.3721948)
 
 - J. Duato, J. I. Mestre, M. F. Dolz, E. S. Quintana-Orti, J. Cano
     *'Decoupling Structural and Quantitative Knowledge in ReLU-based Deep Neural Networks'* **EuroMLSys** 2025, co-located with **EuroSys** '25, Rotterdam, The Netherlands, March 2025. [[Paper]](https://dl.acm.org/doi/10.1145/3721146.3721950)

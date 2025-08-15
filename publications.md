@@ -6,7 +6,7 @@ subtitle:
 
 # 2025
 
--  A. Fenollar, J. Cano, J. L. Abellán, M. Acacio
+-  A. Navarro, J. Cano, J. L. Abellán, M. Acacio
     *'QuFi: Adaptive Tiled Gustavson Output Reuse for Edge Sparse DNN Accelerators'*, to appear in 43rd IEEE International Conference on Computer Design (**ICCD**), Dallas, USA, November 2025.
 
 - J. Haris, J. Cano

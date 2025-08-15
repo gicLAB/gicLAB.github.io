@@ -11,6 +11,6 @@ Quick summary of the new tools: Benchmarking Suite for automated evaluation and 
 
 We aim to have a community-driven research platform around SECDA-TFLite, and we welcome our colleagues from both academia and industry to reach out to us for questions, requests, feedback, or potential points of collaboration.
 
-Github Repository: https://github.com/gicLAB/SECDA-TFLite
+Github Repository: [https://github.com/gicLAB/SECDA-TFLite](https://github.com/gicLAB/SECDA-TFLite)
 
 ![SECDA-TFLite v2 Diagram](/assets/img/secda-tflite-diagram.png)

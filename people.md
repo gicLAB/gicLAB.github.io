@@ -43,9 +43,10 @@ Topic: "'Efficient ML model implementation in FPGAs"
  <br><br>
 
 
-
+<!--
 ### MSc Students
 
+ 
  **[Lara D'Agata](https://www.linkedin.com/in/lara-d-agata-616992283)** <br>  <img src="/assets/img/people/lara.jpg" width="100px" style="float: left; margin-right: 20px;">
  Topic: "Improving Algorithmic Complexity of Operations in the CKKS Scheme for Fully Homomorphic Encryption"
  <br><br>
@@ -55,7 +56,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
  Topic: "Exploiting Sparsity to Improve Implementation of FPGA-based Accelerators"
  <br><br>
  <br><br>
-
+ -->
 
 <!-- ### MSc Students -->
 
@@ -94,6 +95,8 @@ Topic: "'Efficient ML model implementation in FPGAs"
 ## Alumni
 - [Nick Louloudakis](https://luludak.github.io/) (PhD, 2025), currently postdoc at University of Edinburgh
 - [Jude Haris](https://www.linkedin.com/in/jude-haris-a01060243/) (PhD, 2025), currently postdoc at University of Glasgow
+- [Lara D'Agata](https://www.linkedin.com/in/lara-d-agata-616992283) (MSc, 2025)
+- [Mariusz Szczepaniak](https://github.com/Mazza02) (MSc, 2025)
 - [Perry Gibson](https://gibsonic.org) (PhD, 2023), currently at Fractile
 - [Vinamra Sharma](https://www.linkedin.com/in/vinamra-sharma/) (MSc, 2023), currently at Amped
 - [Axel Stjerngren](https://www.linkedin.com/in/axel-stjerngren/) (UG, 2021), currently at DeepMind

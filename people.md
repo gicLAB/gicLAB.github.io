@@ -7,7 +7,7 @@ subtitle:
 ## Current Lab Members
 
 ### Principal Investigator
-**[Dr José Cano](http://www.dcs.gla.ac.uk/~josecr/) — _Senior Lecturer (Associate Professor)_** <br> <img src="/assets/img/people/jose_small_new.png" width="100px" style="float: left; margin-right: 20px;">
+**[Dr José Cano](http://www.dcs.gla.ac.uk/~josecr/) — _Reader (Associate Professor)_** <br> <img src="/assets/img/people/jose_small_new.png" width="100px" style="float: left; margin-right: 20px;">
 His research interests are in the areas of: Computer Architecture, Computer Systems, Compilers, Machine Learning, and Security.
 <img src="/assets/img/Twitter_Logo_Blue.png" width="20px"> [@jcanore](https://twitter.com/jcanore)
 <br><br>
@@ -70,7 +70,9 @@ Topic: "'Efficient ML model implementation in FPGAs"
 - [José L. Abellán](https://sites.google.com/view/jlabellan) - University of Murcia, Spain
 - [Elliot J. Crowley](https://elliotjcrowley.github.io/) - University of Edinburgh, UK
 - [Manuel F. Dolz](https://sites.google.com/uji.es/manuel-f-dolz) - Universitat Jaume I, Spain
+- [Ajay Joshi]([https://sites.google.com/uji.es/manuel-f-dolz](https://www.bu.edu/eng/profile/ajay-joshi/)) - Boston University, USA
 - [David Kaeli](https://coe.northeastern.edu/people/kaeli-david/) - Northeastern University, USA
+- [John Kim]([https://coe.northeastern.edu/people/kaeli-david/](https://icn.kaist.ac.kr/~jjk12/)) - KAIST, South Korea
 - [Sye Loong Keoh](https://www.gla.ac.uk/schools/computing/staff/syeloongkeoh/) - University of Glasgow, UK
 - [Onur Mutlu](https://people.inf.ethz.ch/omutlu/) - ETH Zürich, Switzerland
 - [Michael O'Boyle](https://www.dcs.ed.ac.uk/home/mob/) - University of Edinburgh, UK

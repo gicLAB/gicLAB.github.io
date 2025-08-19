@@ -22,11 +22,6 @@ Topic: "Designing and Generating Efficient FPGA-Based Accelerators for Deep Neur
 
 ### PhD Students
 
-**[Nick Louloudakis](https://luludak.github.io/)** (co-supervised with [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/) at Univeristy of Edinburgh) <br>  <img src="/assets/img/people/nickl.jpg" width="100px" style="float: left; margin-right: 20px;">
-Topic: "Testing Perception AI on Hardware Accelerators"
-<br><br>
-<br><br>
-
 **[Wenhao Hu](https://www.linkedin.com/in/%E6%96%87%E8%B1%AA-%E8%83%A1-3500a3111/)** <br>  <img src="/assets/img/people/wenhao.png" width="100px" style="float: left; margin-right: 20px;">
 Topic: "Exploring Novel Pruning Techniques for Deep Neural Networks"
 <br><br>
@@ -70,9 +65,9 @@ Topic: "'Efficient ML model implementation in FPGAs"
 - [José L. Abellán](https://sites.google.com/view/jlabellan) - University of Murcia, Spain
 - [Elliot J. Crowley](https://elliotjcrowley.github.io/) - University of Edinburgh, UK
 - [Manuel F. Dolz](https://sites.google.com/uji.es/manuel-f-dolz) - Universitat Jaume I, Spain
-- [Ajay Joshi](https://www.bu.edu/eng/profile/ajay-joshi/)) - Boston University, USA
+- [Ajay Joshi](https://www.bu.edu/eng/profile/ajay-joshi/) - Boston University, USA
 - [David Kaeli](https://coe.northeastern.edu/people/kaeli-david/) - Northeastern University, USA
-- [John Kim](https://icn.kaist.ac.kr/~jjk12/)) - KAIST, South Korea
+- [John Kim](https://icn.kaist.ac.kr/~jjk12/) - KAIST, South Korea
 - [Sye Loong Keoh](https://www.gla.ac.uk/schools/computing/staff/syeloongkeoh/) - University of Glasgow, UK
 - [Onur Mutlu](https://people.inf.ethz.ch/omutlu/) - ETH Zürich, Switzerland
 - [Michael O'Boyle](https://www.dcs.ed.ac.uk/home/mob/) - University of Edinburgh, UK
@@ -97,6 +92,8 @@ Topic: "'Efficient ML model implementation in FPGAs"
 - [Ferheen Ayaz](https://ferheenayaz.github.io/), currently Lecturer at City, University of London
 
 ## Alumni
+- [Nick Louloudakis](https://luludak.github.io/) (PhD, 2025), currently postdoc at University of Edinburgh
+- [Jude Haris](https://www.linkedin.com/in/jude-haris-a01060243/) (PhD, 2025), currently postdoc at University of Glasgow
 - [Perry Gibson](https://gibsonic.org) (PhD, 2023), currently at Fractile
 - [Vinamra Sharma](https://www.linkedin.com/in/vinamra-sharma/) (MSc, 2023), currently at Amped
 - [Axel Stjerngren](https://www.linkedin.com/in/axel-stjerngren/) (UG, 2021), currently at DeepMind

@@ -60,16 +60,18 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 <!-- ### MSc Students -->
 
+## Visitors
+- [Manuel de Castro Caballero](https://www.linkedin.com/in/decastromanuel/) - Universidad de Valladolid, Spain
+- [Izan Catalán](https://www.linkedin.com/in/izan-catal%C3%A1n-gallach-5574bb243/) - Universitat Politècnica de València, Spain
 
 ## Academic Collaborators
-
 - [José L. Abellán](https://sites.google.com/view/jlabellan) - University of Murcia, Spain
 - [Elliot J. Crowley](https://elliotjcrowley.github.io/) - University of Edinburgh, UK
 - [Manuel F. Dolz](https://sites.google.com/uji.es/manuel-f-dolz) - Universitat Jaume I, Spain
 - [Ajay Joshi](https://www.bu.edu/eng/profile/ajay-joshi/) - Boston University, USA
 - [David Kaeli](https://coe.northeastern.edu/people/kaeli-david/) - Northeastern University, USA
-- [John Kim](https://icn.kaist.ac.kr/~jjk12/) - KAIST, South Korea
 - [Sye Loong Keoh](https://www.gla.ac.uk/schools/computing/staff/syeloongkeoh/) - University of Glasgow, UK
+- [John Kim](https://icn.kaist.ac.kr/~jjk12/) - KAIST, South Korea
 - [Onur Mutlu](https://people.inf.ethz.ch/omutlu/) - ETH Zürich, Switzerland
 - [Michael O'Boyle](https://www.dcs.ed.ac.uk/home/mob/) - University of Edinburgh, UK
 - [Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/) - University of Edinburgh, UK
@@ -101,6 +103,9 @@ Topic: "'Efficient ML model implementation in FPGAs"
 - [Vinamra Sharma](https://www.linkedin.com/in/vinamra-sharma/) (MSc, 2023), currently at Amped
 - [Axel Stjerngren](https://www.linkedin.com/in/axel-stjerngren/) (UG, 2021), currently at DeepMind
 - [Martina Löfqvist](https://www.linkedin.com/in/martinalofqvist/) (UG, 2020), currently at Picterra
+
+## Past Visitors
+- [Nacho Mestre Miravet](https://www.linkedin.com/in/nacho-mestre-miravet-88165a199/) - Universitat Jaume I, Spain
 
 <!-- ### Research Interns -->
 <!-- - Some Guy -->

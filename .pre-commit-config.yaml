@@ -23,4 +23,4 @@ repos:
     hooks:
       - id: prettier
         args: [--write]
-        types_or: [yaml, json, markdown, css, html, javascript, ts, tsx]
+        types_or: [yaml, json, markdown, ts, tsx]

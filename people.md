@@ -43,7 +43,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
  <br><br>
 
 **[Vinamra Sharma](https://www.linkedin.com/in/vinamra-sharma/)** <br>  <img src="/assets/img/people/vinamra.jpeg" width="100px" style="float: left; margin-right: 20px;">
- Topic: "Topic:AI Compilers"
+ Topic: "AI Compilers"
  <br><br>
  <br><br>
 

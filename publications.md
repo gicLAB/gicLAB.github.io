@@ -6,7 +6,7 @@ subtitle:
 
 # 2026
 
--  A. Pagani, J. Cano, H.-G. Stratigopoulos et al
+-  A. Pagani, J. Cano, H.-G. Stratigopoulos et al.
     *'Multi-Partner Project: dAIEDGE - A Network of Excellence for Distributed, Trustworthy, Efficient and Scalable AI at the Edge'*, to appear in 2026 Design, Automation & Test in Europe Conference & Exhibition (**DATE**), Verona, Italy, April 2026.
 
 -  E. Cohavi, N. Bohm Agostini, J. Haris, A. Tumeo, D. Kaeli, J. Cano

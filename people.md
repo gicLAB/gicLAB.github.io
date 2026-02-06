@@ -47,20 +47,19 @@ Topic: "'Efficient ML model implementation in FPGAs"
  <br><br>
  <br><br>
 
-
-## Research Assistants
-**[Elam Cohavi](https://www.linkedin.com/in/elam-cohavi/)** <br> <img src="/assets/img/people/elam.jpg" width="100px" style="float: left; margin-right: 20px;">
- Topic: "Machine Learning Compilers"
- <br><br>
- <br><br>
-
-## MSci Students
+ ## MSci Students
 
  **[Luke Holmes](https://www.linkedin.com/in/lara-d-agata-616992283)** <br>
  Topic: "End-to-End Acceleration of Fully Homomorphic Encrypted DNNs"
  <br><br>
  <br><br>
 
+
+## Research Assistants
+**[Elam Cohavi](https://www.linkedin.com/in/elam-cohavi/)** <br> <img src="/assets/img/people/elam.jpg" width="100px" style="float: left; margin-right: 20px;">
+ Topic: "Machine Learning Compilers"
+ <br><br>
+ <br><br>
 
 <!--
 ### MSc Students

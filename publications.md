@@ -14,9 +14,6 @@ subtitle:
 
 # 2025
 
-- O. V. Babalola, J. Cano, S. Deepaisarn, N. B. Truong
-    *'FedRand: A Federated Random Forest Learning Technique for Anomaly Detection in IoT Networks'*, 24th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (**TrustCom**), Guiyang, China, November 2025.
-
 -  A. Navarro, J. Cano, J. L. Abellán, M. Acacio
     *'QuFi: Adaptive Tiled Gustavson Output Reuse for Edge Sparse DNN Accelerators'*, 43rd IEEE International Conference on Computer Design (**ICCD**), Dallas, USA, November 2025.
 

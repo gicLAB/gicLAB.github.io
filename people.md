@@ -47,8 +47,8 @@ Topic: "'Efficient ML model implementation in FPGAs"
  <br><br>
  <br><br>
 
- ### MSci Students
- **[Luke Holmes](https://www.linkedin.com/in/luke-holmes-593b9b295/)** <br> <img src="/assets/img/people/blank.png" width="100px" style="float: left; margin-right: 20px;">
+### MSci Students
+ **[Luke Holmes](https://www.linkedin.com/in/luke-holmes-593b9b295/)** <br> 
  Topic: "End-to-End Acceleration of Fully Homomorphic Encrypted DNNs"
  <br><br>
  <br><br>
@@ -79,7 +79,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 ## Visitors
 - [Lara D'Agata](https://www.linkedin.com/in/lara-d-agata-616992283)
-- [Giacomo Donati](https://scholar.google.com/citations?user=uz1oCtcAAAAJ&hl=it) - Università di Bologna, Italy
+- [Giacomo Donati](https://www.unibo.it/sitoweb/giacomo.donati9) - Università di Bologna, Italy
 - [Manuel de Castro Caballero](https://www.linkedin.com/in/decastromanuel/) - Universidad de Valladolid, Spain
 - [Izan Catalán](https://www.linkedin.com/in/izan-catal%C3%A1n-gallach-5574bb243/) - Universitat Politècnica de València, Spain
 

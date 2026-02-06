@@ -4,13 +4,28 @@ title: Publications
 subtitle:
 ---
 
+# 2026
+
+-  A. Pagani, J. Cano, H.-G. Stratigopoulos et al
+    *'Multi-Partner Project: dAIEDGE - A Network of Excellence for Distributed, Trustworthy, Efficient and Scalable AI at the Edge'*, to appear in 2026 Design, Automation & Test in Europe Conference & Exhibition (**DATE**), Verona, Italy, April 2026.
+
+-  E. Cohavi, N. Bohm Agostini, J. Haris, A. Tumeo, D. Kaeli, J. Cano
+    *'Defeat the Heap: Zero-Copy Data Movement in AXI4MLIR'*, to appear in 7th Compilers for Machine Learning Workshop (**C4ML**) co-located with **CGO**, Sydney, Australia, Jan-Feb 2026
+
 # 2025
 
+- O. V. Babalola, J. Cano, S. Deepaisarn, N. B. Truong
+    *'FedRand: A Federated Random Forest Learning Technique for Anomaly Detection in IoT Networks'*, 24th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (**TrustCom**), Guiyang, China, November 2025.
+
 -  A. Navarro, J. Cano, J. L. Abellán, M. Acacio
-    *'QuFi: Adaptive Tiled Gustavson Output Reuse for Edge Sparse DNN Accelerators'*, to appear in 43rd IEEE International Conference on Computer Design (**ICCD**), Dallas, USA, November 2025.
+    *'QuFi: Adaptive Tiled Gustavson Output Reuse for Edge Sparse DNN Accelerators'*, 43rd IEEE International Conference on Computer Design (**ICCD**), Dallas, USA, November 2025.
 
 - J. Haris, J. Cano
-    *'Accelerating Transposed Convolutions on FPGA-based Edge Devices'*, to appear in 35th International Conference on Field-Programmable Logic and Applications (**FPL**), Leiden, The Netherlands, September 2025. [[Paper]](https://arxiv.org/abs/2507.07683)
+    *'Accelerating AI at the Edge: The Power of Efficient Hardware-Software Co-Design'*, Reach Emerging Architectures in Computing Horizons conference (**REACH**), London, UK, November 2025. [[Poster]](https://www.dcs.gla.ac.uk/~josecr/pub/2025_reach_poster.pdf) **Best Poster Award**
+
+
+- J. Haris, J. Cano
+    *'Accelerating Transposed Convolutions on FPGA-based Edge Devices'*, 35th International Conference on Field-Programmable Logic and Applications (**FPL**), Leiden, The Netherlands, September 2025. [[Paper]](https://arxiv.org/abs/2507.07683)
 
 - W. Hu, P. Henderson, J. Cano
     *'ICE-Pruning: An Iterative Cost-Efficient Pruning Pipeline for Deep Neural Networks'*, International Joint Conference on Neural Networks (**IJCNN**), Rome, Italy, July 2025. [[Paper]](https://arxiv.org/abs/2505.07411)

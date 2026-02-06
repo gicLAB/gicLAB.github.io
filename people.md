@@ -48,7 +48,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
  <br><br>
 
  ### MSci Students
- **[Luke Holmes](https://www.linkedin.com/in/lara-d-agata-616992283)** <br>
+ **[Luke Holmes](https://www.linkedin.com/in/luke-holmes-593b9b295/)** <br> <img src="/assets/img/people/blank.png" width="100px" style="float: left; margin-right: 20px;">
  Topic: "End-to-End Acceleration of Fully Homomorphic Encrypted DNNs"
  <br><br>
  <br><br>

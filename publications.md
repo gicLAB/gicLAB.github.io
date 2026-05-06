@@ -15,7 +15,7 @@ subtitle:
 -  L. D'Agata, C. Agulló-Domingo, O. Vera-López, K. Shivdikar, A. W. B. Yudha, F. Yaman, D. Kaeli, J. L. Abellán, I. Colbert, J. Cano 
     *'GPU Acceleration of Sparse Fully Homomorphic Encrypted DNNs'*, 6th Workshop on Machine Learning and Systems (**EuroMLSys**) co-located with **EuroSys** '26, Edinburgh, United Kingdom, April 2026. [[Paper]](https://arxiv.org/abs/2604.11659)
 
--  V. Sharma, J. Haris, J. Cano
+-  V. Sharma, X. Fu, J. Haris, J. Cano
     *'LLM-Driven Design Space Exploration of FPGA-based Accelerators'*, Workshop on Intelligent System Design (**InSyDe**), co-located with  **EuroSys** '26, Edinburgh, United Kingdom, April 2026.
 
 -  A. Pagani, J. Cano, H.-G. Stratigopoulos et al.

@@ -54,11 +54,11 @@ Topic: "'Efficient ML model implementation in FPGAs"
  <br><br>
 
 
-### Research Assistants
+<!-- ### Research Assistants
 **[Elam Cohavi](https://www.linkedin.com/in/elam-cohavi/)** <br> <img src="/assets/img/people/elam.jpg" width="100px" style="float: left; margin-right: 20px;">
  Topic: "Machine Learning Compilers"
  <br><br>
- <br><br>
+ <br><br> -->
 
 <!--
 ### MSc Students
@@ -110,6 +110,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
 <!-- ## Visiting Researchers-->
 
 ## Past Lab Members
+- [Elam Cohavi](https://www.linkedin.com/in/elam-cohavi/) - currently a Compiler Engineer at [OLIX](https://olix.com/)
 - [Lara D'Agata](https://www.linkedin.com/in/lara-d-agata-616992283) - currently a Software Engineer at [Pulsion Technology](https://www.pulsion.co.uk/)
 - [Idris Zakariyya](https://www.gla.ac.uk/schools/computing/staff/idriszakariyya/), currently postdoc at University of Glasgow
 - [Ferheen Ayaz](https://ferheenayaz.github.io/), currently Lecturer at City, University of London

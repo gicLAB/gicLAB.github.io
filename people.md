@@ -48,35 +48,11 @@ Topic: "'Efficient ML model implementation in FPGAs"
  <br><br>
 
 ### MSci Students
-
  **[Luke Holmes](https://www.linkedin.com/in/luke-holmes-593b9b295/)** <br> 
  Topic: "End-to-End Acceleration of Fully Homomorphic Encrypted DNNs"
  <br><br>
  <br><br>
  
-<!-- ### Research Assistants
-**[Elam Cohavi](https://www.linkedin.com/in/elam-cohavi/)** <br> <img src="/assets/img/people/elam.jpg" width="100px" style="float: left; margin-right: 20px;">
- Topic: "Machine Learning Compilers"
- <br><br>
- <br><br> -->
-
-<!--
-### MSc Students
-
- 
- **[Lara D'Agata](https://www.linkedin.com/in/lara-d-agata-616992283)** <br>  <img src="/assets/img/people/lara.jpg" width="100px" style="float: left; margin-right: 20px;">
- Topic: "Improving Algorithmic Complexity of Operations in the CKKS Scheme for Fully Homomorphic Encryption"
- <br><br>
- <br><br>
-
- **[Mariusz Szczepaniak](https://github.com/Mazza02)** <br>  <img src="/assets/img/people/mariusz.png" width="100px" style="float: left; margin-right: 20px;">
- Topic: "Exploiting Sparsity to Improve Implementation of FPGA-based Accelerators"
- <br><br>
- <br><br>
- -->
-
-<!-- ### MSc Students -->
-
 ## Visitors
 - [Lara D'Agata](https://www.linkedin.com/in/lara-d-agata-616992283)
 - [Giacomo Donati](https://www.unibo.it/sitoweb/giacomo.donati9) - Università di Bologna, Italy

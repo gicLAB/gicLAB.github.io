@@ -6,16 +6,28 @@ subtitle:
 
 # 2026
 
+- W. Hu
+    *'Exploiting compression techniques for efficient edge AI'*, Ph.D. Thesis, University of Glasgow. [[Thesis](https://theses.gla.ac.uk/85864/)]
+
+- R. Saha, J. Haris, N. Bohm Agostini, D. Kaeli, J. Cano
+    *'PoTAcc: A Pipeline for End-to-End Acceleration of Power-of-Two Quantized DNNs'*, IEEE Transactions on Circuits and Systems for Articicial Intelligence (**TCASAI**), April 2026.
+
+-  L. D'Agata, C. Agulló-Domingo, O. Vera-López, K. Shivdikar, A. W. B. Yudha, F. Yaman, D. Kaeli, J. L. Abellán, I. Colbert, J. Cano 
+    *'GPU Acceleration of Sparse Fully Homomorphic Encrypted DNNs'*, 6th Workshop on Machine Learning and Systems (**EuroMLSys**) co-located with **EuroSys** '26, Edinburgh, United Kingdom, April 2026. [[Paper]](https://arxiv.org/abs/2604.11659)
+
+-  V. Sharma, J. Haris, J. Cano
+    *'LLM-Driven Design Space Exploration of FPGA-based Accelerators'*, Workshop on Intelligent System Design (**InSyDe**), co-located with  **EuroSys** '26, Edinburgh, United Kingdom, April 2026.
+
 -  A. Pagani, J. Cano, H.-G. Stratigopoulos et al.
-    *'Multi-Partner Project: dAIEDGE - A Network of Excellence for Distributed, Trustworthy, Efficient and Scalable AI at the Edge'*, to appear in 2026 Design, Automation & Test in Europe Conference & Exhibition (**DATE**), Verona, Italy, April 2026.
+    *'Multi-Partner Project: dAIEDGE - A Network of Excellence for Distributed, Trustworthy, Efficient and Scalable AI at the Edge'*, 2026 Design, Automation & Test in Europe Conference & Exhibition (**DATE**), Verona, Italy, April 2026. [[Paper]](https://hal.science/hal-05464162/)
 
 -  E. Cohavi, N. Bohm Agostini, J. Haris, A. Tumeo, D. Kaeli, J. Cano
-    *'Defeat the Heap: Zero-Copy Data Movement in AXI4MLIR'*, to appear in 7th Compilers for Machine Learning Workshop (**C4ML**) co-located with **CGO**, Sydney, Australia, Jan-Feb 2026
+    *'Defeat the Heap: Zero-Copy Data Movement in AXI4MLIR'*, 7th Compilers for Machine Learning Workshop (**C4ML**) co-located with **CGO**, Sydney, Australia, Jan-Feb 2026
 
 # 2025
 
-<!-- - O. V. Babalola, J. Cano, S. Deepaisarn, N. B. Truong
-    *'FedRand: A Federated Random Forest Learning Technique for Anomaly Detection in IoT Networks'*, 24th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (**TrustCom**), Guiyang, China, November 2025. -->
+- J. Haris
+    *'Hardware-software co-design of FPGA-based neural network accelerators for edge inference'*, Ph.D. Thesis, University of Glasgow. [[Thesis](https://theses.gla.ac.uk/85185/)]
 
 -  A. Navarro, J. Cano, J. L. Abellán, M. Acacio
     *'QuFi: Adaptive Tiled Gustavson Output Reuse for Edge Sparse DNN Accelerators'*, 43rd IEEE International Conference on Computer Design (**ICCD**), Dallas, USA, November 2025.

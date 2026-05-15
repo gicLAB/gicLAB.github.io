@@ -22,11 +22,6 @@ Topic: "Designing and Generating Efficient FPGA-Based Accelerators for Deep Neur
 
 ### PhD Students
 
-**[Wenhao Hu](https://www.linkedin.com/in/%E6%96%87%E8%B1%AA-%E8%83%A1-3500a3111/)** <br>  <img src="/assets/img/people/wenhao.png" width="100px" style="float: left; margin-right: 20px;">
-Topic: "Exploring Novel Pruning Techniques for Deep Neural Networks"
-<br><br>
-<br><br>
-
 **[Rappy Saha](https://rappysaha.github.io/)** <br>  <img src="/assets/img/people/rappy.jpg" width="100px" style="float: left; margin-right: 20px;">
 Topic: "'Efficient ML model implementation in FPGAs"
 <br><br>
@@ -53,9 +48,6 @@ Topic: "'Efficient ML model implementation in FPGAs"
  
 ## Visitors
 - [Lara D'Agata](https://www.linkedin.com/in/lara-d-agata-616992283)
-- [Giacomo Donati](https://www.unibo.it/sitoweb/giacomo.donati9) - Università di Bologna, Italy
-- [Manuel de Castro Caballero](https://www.linkedin.com/in/decastromanuel/) - Universidad de Valladolid, Spain
-- [Izan Catalán](https://www.linkedin.com/in/izan-catal%C3%A1n-gallach-5574bb243/) - Universitat Politècnica de València, Spain
 
 ## Academic Collaborators
 - [José L. Abellán](https://sites.google.com/view/jlabellan) - University of Murcia, Spain
@@ -76,7 +68,7 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 ## Industry Collaborators
 - [Ian Colbert](https://www.linkedin.com/in/ian-colbert/) - AMD
-- [José Duato](https://rac.es/sobre-nosotros/miembros/academicos/numerarios/965/) - Qsimov
+- [José Duato](https://www.linkedin.com/in/jos%C3%A9-duato-mar%C3%ADn-300692383/) - Openchip & Software Technologies
 - [Juan Gómez Luna](https://safari.ethz.ch/juan-gomez-luna/) - NVIDIA
 - [Mounia Kharbouche-Harrari](https://www.linkedin.com/in/mounia-kharbouche-harrari-6612b810a/) - STMicroelectronics
 - [Danilo Pau](https://www.linkedin.com/in/danilopietropau/) - STMicroelectronics
@@ -84,13 +76,14 @@ Topic: "'Efficient ML model implementation in FPGAs"
 <!-- ## Visiting Researchers-->
 
 ## Past Lab Members
-- [Elam Cohavi](https://www.linkedin.com/in/elam-cohavi/) - currently a Compiler Engineer at [OLIX](https://olix.com/)
+<!-- - [Elam Cohavi](https://www.linkedin.com/in/elam-cohavi/) - currently a Compiler Engineer at [OLIX](https://olix.com/) -->
 - [Lara D'Agata](https://www.linkedin.com/in/lara-d-agata-616992283) - currently a Software Engineer at [Pulsion Technology](https://www.pulsion.co.uk/)
-- [Idris Zakariyya](https://www.gla.ac.uk/schools/computing/staff/idriszakariyya/), currently postdoc at University of Glasgow
+- [Idris Zakariyya](https://www.gla.ac.uk/schools/computing/staff/idriszakariyya/), currently Researcher at The Alan Turing Institute
 - [Ferheen Ayaz](https://ferheenayaz.github.io/), currently Lecturer at City, University of London
 
 ## Alumni
-- [Nick Louloudakis](https://luludak.github.io/) (PhD, 2025), currently postdoc at University of Edinburgh
+- [Wenhao Hu](https://www.linkedin.com/in/%E6%96%87%E8%B1%AA-%E8%83%A1-3500a3111/) (PhD, 2026)
+- [Nick Louloudakis](https://luludak.github.io/) (PhD, 2025), currently AI Researcher & Engineer at Barclays
 - [Jude Haris](https://www.linkedin.com/in/jude-haris-a01060243/) (PhD, 2025), currently postdoc at University of Glasgow
 - [Lara D'Agata](https://www.linkedin.com/in/lara-d-agata-616992283) (MSc, 2025)
 - [Mariusz Szczepaniak](https://github.com/Mazza02) (MSc, 2025)
@@ -100,6 +93,9 @@ Topic: "'Efficient ML model implementation in FPGAs"
 - [Martina Löfqvist](https://www.linkedin.com/in/martinalofqvist/) (UG, 2020), currently at Picterra
 
 ## Past Visitors
+- [Giacomo Donati](https://www.unibo.it/sitoweb/giacomo.donati9) - Università di Bologna, Italy
+- [Manuel de Castro Caballero](https://www.linkedin.com/in/decastromanuel/) - Universidad de Valladolid, Spain
+- [Izan Catalán](https://www.linkedin.com/in/izan-catal%C3%A1n-gallach-5574bb243/) - Universitat Politècnica de València, Spain
 - [Nacho Mestre Miravet](https://www.linkedin.com/in/nacho-mestre-miravet-88165a199/) - Universitat Jaume I, Spain
 
 <!-- ### Research Interns -->

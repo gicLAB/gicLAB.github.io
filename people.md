@@ -83,12 +83,12 @@ Topic: "'Efficient ML model implementation in FPGAs"
 
 ## Alumni
 - [Wenhao Hu](https://www.linkedin.com/in/%E6%96%87%E8%B1%AA-%E8%83%A1-3500a3111/) (PhD, 2026)
-- [Nick Louloudakis](https://luludak.github.io/) (PhD, 2025), currently AI Researcher & Engineer at Barclays
+- [Nick Louloudakis](https://luludak.github.io/) (PhD, 2025), currently at Barclays
 - [Jude Haris](https://www.linkedin.com/in/jude-haris-a01060243/) (PhD, 2025), currently postdoc at University of Glasgow
 - [Lara D'Agata](https://www.linkedin.com/in/lara-d-agata-616992283) (MSc, 2025)
-- [Mariusz Szczepaniak](https://github.com/Mazza02) (MSc, 2025)
+- [Mariusz Szczepaniak](https://github.com/Mazza02) (MSc, 2025), currently PhD student at University of Glasgow
 - [Perry Gibson](https://gibsonic.org) (PhD, 2023), currently at Fractile
-- [Vinamra Sharma](https://www.linkedin.com/in/vinamra-sharma/) (MSc, 2023), currently at Amped
+- [Vinamra Sharma](https://www.linkedin.com/in/vinamra-sharma/) (MSc, 2023), currently at Unineed
 - [Axel Stjerngren](https://www.linkedin.com/in/axel-stjerngren/) (UG, 2021), currently at DeepMind
 - [Martina Löfqvist](https://www.linkedin.com/in/martinalofqvist/) (UG, 2020), currently at Picterra
 

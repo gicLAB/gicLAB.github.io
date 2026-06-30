@@ -18,6 +18,12 @@ subtitle:
 - R. Saha, J. Haris, N. Bohm Agostini, D. Kaeli, J. Cano
     *'PoTAcc: A Pipeline for End-to-End Acceleration of Power-of-Two Quantized DNNs'*, IEEE Transactions on Circuits and Systems for Articicial Intelligence (**TCASAI**), April 2026. [[Paper](https://ieeexplore.ieee.org/document/11509649)]
 
+- J. Haris, R. Saha, J. Cano
+     '*Hardware Profiling for SECDA on Edge Platforms*', to appear in 5th Workshop on Open-Source Computer Architecture Research (**OSCAR**), co-located with **ISCA**, Raleigh, USA, June 2026.
+
+- V. Sharma, X. Fu, J. Haris, J. Cano
+     '*Towards Autonomous Accelerator Design: FPGA Accelerator Generation with SECDA*', Workshop for ML on Computer Architecture and Systems (**MLArchSys**), co-located with **ISCA**, Raleigh, USA, June 2026. [[Paper](https://arxiv.org/abs/2606.11117)]
+
 -  L. D'Agata, C. Agulló-Domingo, O. Vera-López, K. Shivdikar, A. W. B. Yudha, F. Yaman, D. Kaeli, J. L. Abellán, I. Colbert, J. Cano 
     *'GPU Acceleration of Sparse Fully Homomorphic Encrypted DNNs'*, 6th Workshop on Machine Learning and Systems (**EuroMLSys**) co-located with **EuroSys** '26, Edinburgh, United Kingdom, April 2026. [[Paper]](https://arxiv.org/abs/2604.11659)
 

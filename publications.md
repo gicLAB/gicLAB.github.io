@@ -12,8 +12,11 @@ subtitle:
 - H. Dymarkowski, X. Fu, R. Saha, J. Haris, J. Cano
      *'FlexViT: A Flexible FPGA-based Accelerator for Edge Vision Transformers'*, to appear in 36th International Conference on Field-Programmable Logic and Applications (**FPL**), Ghent, Belgium, September 2026.
 
+- W. Hu, J. Haris, P. Henderson, J. Cano
+     *'eDQA: Efficient Deep Quantization of DNN Activations on Edge Devices'*, Transactions on Machine Learning Research (**TMLR**), June 2026. [[Paper](https://openreview.net/forum?id=SEIBCdgE5W)]
+
 - R. Saha, J. Haris, N. Bohm Agostini, D. Kaeli, J. Cano
-    *'PoTAcc: A Pipeline for End-to-End Acceleration of Power-of-Two Quantized DNNs'*, IEEE Transactions on Circuits and Systems for Articicial Intelligence (**TCASAI**), April 2026.
+    *'PoTAcc: A Pipeline for End-to-End Acceleration of Power-of-Two Quantized DNNs'*, IEEE Transactions on Circuits and Systems for Articicial Intelligence (**TCASAI**), April 2026. [[Paper](https://ieeexplore.ieee.org/document/11509649)]
 
 -  L. D'Agata, C. Agulló-Domingo, O. Vera-López, K. Shivdikar, A. W. B. Yudha, F. Yaman, D. Kaeli, J. L. Abellán, I. Colbert, J. Cano 
     *'GPU Acceleration of Sparse Fully Homomorphic Encrypted DNNs'*, 6th Workshop on Machine Learning and Systems (**EuroMLSys**) co-located with **EuroSys** '26, Edinburgh, United Kingdom, April 2026. [[Paper]](https://arxiv.org/abs/2604.11659)

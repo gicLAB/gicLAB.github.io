@@ -9,6 +9,9 @@ subtitle:
 - W. Hu
     *'Exploiting compression techniques for efficient edge AI'*, Ph.D. Thesis, University of Glasgow. [[Thesis](https://theses.gla.ac.uk/85864/)]
 
+- H. Dymarkowski, X. Fu, R. Saha, J. Haris, J. Cano
+     *'FlexViT: A Flexible FPGA-based Accelerator for Edge Vision Transformers'*, to appear in 36th International Conference on Field-Programmable Logic and Applications (**FPL**), Ghent, Belgium, September 2026.
+
 - R. Saha, J. Haris, N. Bohm Agostini, D. Kaeli, J. Cano
     *'PoTAcc: A Pipeline for End-to-End Acceleration of Power-of-Two Quantized DNNs'*, IEEE Transactions on Circuits and Systems for Articicial Intelligence (**TCASAI**), April 2026.
 
